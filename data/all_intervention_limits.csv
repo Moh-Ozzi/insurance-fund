@@ -1,0 +1,544 @@
+code,description,age_l,age_h,sex
+13200-00,Asst reprod technology ind supovulatn,210,260,FEML
+13203-00,Ovulation monitor for artf insemin,210,260,FEML
+13206-00,Asst reprod induce oocyte growth & devt,210,260,FEML
+13209-00,Plan & mgmt asst reproductive technology,210,260,FEML
+13212-00,Transvaginal oocyte retrieval,210,260,FEML
+13212-01,Transabdominal oocyte retrieval,210,260,FEML
+13215-00,Gamete intrafallopian transfer [GIFT],210,260,FEML
+13215-01,Embryo transfer to uterus,210,260,FEML
+13215-02,Embryo transfer to fallopian tube,210,260,FEML
+13215-03,Other reproductive medicine procedure,210,260,FEML
+16501-00,External version,210,260,FEML
+16501-01,Failed external version,210,260,FEML
+16511-00,Insertion of cervical suture,210,260,FEML
+16512-00,Removal of cervical suture,210,260,FEML
+16514-00,Internal fetal monitoring,210,260,FEML
+16514-01,External fetal monitoring,210,260,FEML
+16520-00,Elective classical caesarean section,210,260,FEML
+16520-01,Emergency classical caesarean section,210,260,FEML
+16520-02,Elective lower segment caesarean section,210,260,FEML
+16520-03,Emergency lower segment caesarean sect,210,260,FEML
+16520-04,Elective caesarean section NEC,210,260,FEML
+16520-05,Emergency caesarean section NEC,210,260,FEML
+16564-00,Postpartum evacuation of uterus by D&C,210,260,FEML
+16564-01,Postpartum evac uterus suction curettage,210,260,FEML
+16567-00,Other management postpartum haemorrhage,210,260,FEML
+16570-00,Manual correction of inverted uterus,210,260,FEML
+16570-01,Surgical correction of inverted uterus,210,260,FEML
+16571-00,Suture current obst laceration of cervix,210,260,FEML
+16573-00,Sut third / fourth deg tear of perineum,210,260,FEML
+16600-00,Diagnostic amniocentesis,210,260,FEML
+16603-00,Chorionic villus sampling,210,260,FEML
+16606-00,Fetal blood sampling,210,260,FEML
+16609-00,Intrauterine fetal intravasc bl transfn,210,260,FEML
+16612-00,IU fetal intraperitoneal blood transfn,210,260,FEML
+16615-00,IU fetal intrapertl/vasc blood transfn,210,260,FEML
+16618-00,Therapeutic amniocentesis,210,260,FEML
+16621-00,Amnio-infusion,210,260,FEML
+16624-00,Drainage of fetal fluid cavity,210,260,FEML
+16627-00,Insertion of feto-amniotic shunt,210,260,FEML
+35677-00,R/O peritoneal ectopic pregnancy,210,260,FEML
+50450-00,SEMLS mult sft tis surg low lmb uni,201,219,
+50450-01,SEMLS sft tis & osteotmy low lmb uni,201,219,
+50450-02,SEMLS sft tis osteotmy & ft uni,201,219,
+50455-00,SEMLS mult sft tis surg low lmb bil,201,219,
+50470-00,SEMLS sft tis & osteotmy low lmb bil,201,219,
+50475-00,SEMLS sft tis osteotmy & ft bil,201,219,
+55700-00,U/s for detection of fetal abnormality,210,260,FEML
+55700-01,Ultrasound for fetal growth measurement,210,260,FEML
+55700-02,U/s abdo/pelvis for other pregnancy cond,210,260,FEML
+55729-01,Duplex ultrasound of umbilical artery,210,260,FEML
+90460-00,Amnioscopy,210,260,FEML
+90461-01,Fetotoxic injection NEC,210,260,FEML
+90462-01,Termination of pregnancy NEC,210,260,FEML
+90463-00,Fetal reduction,210,260,FEML
+90463-01,Endoscopic fetal reduction,210,260,FEML
+90464-00,Correction of fetal defect,210,260,FEML
+90465-00,"Medical induction of labour, oxytocin",210,260,FEML
+90465-01,"Medical induction labour, prostaglandin",210,260,FEML
+90465-02,Other medical induction of labour,210,260,FEML
+90465-03,Surgical induction of labour by ARM,210,260,FEML
+90465-04,Other surgical induction of labour,210,260,FEML
+90465-05,Medical and surgical induction of labour,210,260,FEML
+90466-00,Med augment after onset labour,210,260,FEML
+90466-01,Surgical augmentation of labour,210,260,FEML
+90466-02,Medical & surgical augmentation labour,210,260,FEML
+90467-00,Spontaneous vertex delivery,210,260,FEML
+90467-01,Spontaneous delivery of placenta NEC,210,260,FEML
+90468-00,Low forceps delivery,210,260,FEML
+90468-01,Mid-cavity forceps delivery,210,260,FEML
+90468-02,High forceps delivery,210,260,FEML
+90468-03,Forceps rotation of fetal head,210,260,FEML
+90468-04,Forceps rotatn fetal head w forceps delv,210,260,FEML
+90468-05,Failed forceps delivery,210,260,FEML
+90468-06,Forceps delivery unspecified,210,260,FEML
+90469-00,Vacuum assisted delivery,210,260,FEML
+90469-01,Failed vacuum assisted delivery,210,260,FEML
+90470-01,Assisted breech delivery,210,260,FEML
+90470-02,Breech delivery forceps aftercomg head,210,260,FEML
+90470-03,Breech extraction,210,260,FEML
+90470-04,Breech extraction forceps aftercomg head,210,260,FEML
+90470-05,Spontaneous breech delivery,210,260,FEML
+90471-02,Internal version,210,260,FEML
+90471-03,Failed internal version,210,260,FEML
+90471-04,Combined internal and external version,210,260,FEML
+90471-05,Failed cmb internal & external version,210,260,FEML
+90471-06,Manual rotation of fetal head,210,260,FEML
+90472-00,Episiotomy,210,260,FEML
+90473-00,Replacement of prolapsed umbilical cord,210,260,FEML
+90474-00,Incision of cervix to asst delivery,210,260,FEML
+90475-00,Symphysiotomy to asst delivery,210,260,FEML
+90476-00,Procedures fetus to facilitate delivery,210,260,FEML
+90477-00,Other procedures to asst delivery,210,260,FEML
+90477-02,Assisted vertex delivery,210,260,FEML
+90479-00,Suture current obst laceration of vagina,210,260,FEML
+90480-00,Sut obst lacr blader / urethra wo perinl,210,260,FEML
+90480-01,Sut obst lacr rect / sphc ani wo perinl,210,260,FEML
+90481-00,Suture 1st/2nd degree tear of perineum,210,260,FEML
+90482-00,Manual removal of placenta,210,260,FEML
+90483-00,Postpartum manual expl uterine cavity,210,260,FEML
+90484-00,Evacuation perineal incisional haematoma,210,260,FEML
+90484-01,Evac noninc haematoma perineum/vagina,210,260,FEML
+90484-02,Evacuation abdo caesarean wnd haematoma,210,260,FEML
+90485-00,Oth sut obst lacr or rupt wo perinl inv,210,260,FEML
+90487-00,Oth intrauterine dx proc on fetus,210,260,FEML
+90488-00,Endoscopic ablation vessels placenta,210,260,FEML
+92203-00,Extraction of milk from lactating breast,210,260,
+92211-00,Mgmt combined ventilatory sup >= 96 hr,0,201,
+92506-10,"Neuraxial block during labour, ASA 10",210,260,FEML
+92506-19,"Neuraxial block during labour, ASA 19",210,260,FEML
+92506-20,"Neuraxial block during labour, ASA 20",210,260,FEML
+92506-29,"Neuraxial block during labour, ASA 29",210,260,FEML
+92506-30,"Neuraxial block during labour, ASA 30",210,260,FEML
+92506-39,"Neuraxial block during labour, ASA 39",210,260,FEML
+92506-40,"Neuraxial block during labour, ASA 40",210,260,FEML
+92506-49,"Neuraxial block during labour, ASA 49",210,260,FEML
+92506-50,"Neuraxial block during labour, ASA 50",210,260,FEML
+92506-59,"Neuraxial block during labour, ASA 59",210,260,FEML
+92506-69,"Neuraxial block during labour, ASA 69",210,260,FEML
+92506-90,"Neuraxial block during labour, ASA 90",210,260,FEML
+92506-99,"Neuraxial block during labour, ASA 99",210,260,FEML
+92507-10,"Nrxl blck dur labour & delv proc, ASA 10",210,260,FEML
+92507-19,"Nrxl blck dur labour & delv proc, ASA 19",210,260,FEML
+92507-20,"Nrxl blck dur labour & delv proc, ASA 20",210,260,FEML
+92507-29,"Nrxl blck dur labour & delv proc, ASA 29",210,260,FEML
+92507-30,"Nrxl blck dur labour & delv proc, ASA 30",210,260,FEML
+92507-39,"Nrxl blck dur labour & delv proc, ASA 39",210,260,FEML
+92507-40,"Nrxl blck dur labour & delv proc, ASA 40",210,260,FEML
+92507-49,"Nrxl blck dur labour & delv proc, ASA 49",210,260,FEML
+92507-50,"Nrxl blck dur labour & delv proc, ASA 50",210,260,FEML
+92507-59,"Nrxl blck dur labour & delv proc, ASA 59",210,260,FEML
+92507-69,"Nrxl blck dur labour & delv proc, ASA 69",210,260,FEML
+92507-90,"Nrxl blck dur labour & delv proc, ASA 90",210,260,FEML
+92507-99,"Nrxl blck dur labour & delv proc, ASA 99",210,260,FEML
+95550-16,AH lactation consultant,210,260,FEML
+13221-00,Prep semen for artificial insemination,,,MALE
+13251-00,Intracytoplasmic sperm injection,,,MALE
+13290-00,Collection of semen using a device,,,MALE
+15303-00,Brachytherapy IU low dose rate,,,FEML
+15304-00,Brachythrpy intrauterine high dose rate,,,FEML
+15311-00,Brachytherapy intravaginal low dose rate,,,FEML
+15312-00,Brachythrpy intravaginal high dose rate,,,FEML
+15319-00,Brachytherapy IU & intravaginal low dose,,,FEML
+15320-00,Brachytherapy IU & intravaginal high ds,,,FEML
+15338-00,"Brachythrpy, prostate",,,MALE
+15539-00,"Brachytherapy planning, prostate",,,MALE
+30075-27,Biopsy of penis,,,MALE
+30094-07,Percutaneous [needle] biopsy of testis,,,MALE
+30631-00,Excision of hydrocele,,,MALE
+30635-00,Repair of varicocele,,,MALE
+30641-00,"Orchidectomy, unilateral",,,MALE
+30641-01,"Orchidectomy, bilateral",,,MALE
+30644-00,Epididymotomy,,,MALE
+30644-01,Exploration of spermatic cord,,,MALE
+30644-02,Ligation of vas deferens,,,MALE
+30644-03,Ligation of spermatic cord,,,MALE
+30644-04,"Testicular biopsy, unilateral",,,MALE
+30644-05,"Testicular biopsy, bilateral",,,MALE
+30644-06,Bx spermatic cd epididymis vas deferens,,,MALE
+30644-07,Excision of lesion of testicle,,,MALE
+30644-08,Exc lesion spermatic cord or epididymis,,,MALE
+30644-09,Excision of spermatic cord,,,MALE
+30644-10,Other repair vas deferens & epididymis,,,MALE
+30644-11,Other repair spermatic cord & epididymis,,,MALE
+30644-12,"Oth proc spermatic cord, epididymis, vas",,,MALE
+30653-00,Male circumcision,,,MALE
+30663-00,Control haem foll male circumcision,,,MALE
+30666-00,Reduction of paraphimosis,,,MALE
+35500-00,Gynaecological examination,,,FEML
+35503-00,Insertion intrauterine device,,,FEML
+35506-00,Replacement of intrauterine device [IUD],,,FEML
+35506-02,Removal of intrauterine device [IUD],,,FEML
+35507-00,Destruction of vaginal wart,,,FEML
+35507-01,Destruction of vulval wart,,,FEML
+35509-00,Hymenectomy,,,FEML
+35513-00,Treatment of Bartholin's gland cyst,,,FEML
+35518-00,Aspiration of ovarian cyst,,,FEML
+35520-00,Treatment Bartholin's gland abscess,,,FEML
+35530-00,Subtotal amputation of clitoris,,,FEML
+35530-01,Total amputation of clitoris,,,FEML
+35533-00,Vulvoplasty,,,FEML
+35533-01,Repair of perineum,,,FEML
+35536-00,Hemivulvectomy,,,FEML
+35536-01,"Vulvectomy, unilateral",,,FEML
+35536-02,"Vulvectomy, bilateral",,,FEML
+35539-00,Laser destruction of lesion of vulva,,,FEML
+35539-01,Laser destruction of lesion of vagina,,,FEML
+35539-02,Laser destruction of lesion of cervix,,,FEML
+35539-03,Biopsy of vagina,,,FEML
+35539-04,Vaginoscopy,,,FEML
+35548-00,Radical vulvectomy,,,FEML
+35554-00,Dilation of vagina,,,FEML
+35557-00,Excision of lesion of vagina,,,FEML
+35560-00,Partial vaginectomy,,,FEML
+35560-01,Complete vaginectomy,,,FEML
+35561-00,Radical vaginectomy,,,FEML
+35565-00,Vaginal reconstruction,,,FEML
+35566-00,Excision of vaginal septum,,,FEML
+35568-00,Sacrospinous colpopexy,,,FEML
+35569-00,Enlargement of vaginal orifice,,,FEML
+35570-00,"Repair of ant vag compt, vag appr",,,FEML
+35571-00,"Repair of post vag compt, vag appr",,,FEML
+35572-00,Colpotomy,,,FEML
+35572-01,Vaginotomy,,,FEML
+35573-00,"Repair of ant & post vag compt, vag appr",,,FEML
+35577-00,Repair of pelvic floor prolapse,,,FEML
+35581-00,Exc prosth dev impl gft vag appr,,,FEML
+35595-00,Laparoscopic pelvic floor repair,,,FEML
+35595-01,Abdominal pelvic floor repair,,,FEML
+35596-00,Repair rectovaginal fistula,,,FEML
+35596-01,"Repair vesicovaginal fist, vaginal appr",,,FEML
+35596-02,Repair ureterovaginal fist,,,FEML
+35596-03,Repair of other fistula of vagina,,,FEML
+35597-00,Laparoscopic sacral colpopexy,,,FEML
+35597-01,Sacral colpopexy,,,FEML
+35599-00,Sling procedure for stress incont female,,,FEML
+35599-01,Revision sling proc stress incont female,,,FEML
+35608-00,Cautery of cervix,,,FEML
+35608-01,Other destruction of lesion of cervix,,,FEML
+35608-02,Biopsy of cervix,,,FEML
+35611-01,Partial excision of cervix,,,FEML
+35614-00,Colposcopy,,,FEML
+35615-00,Biopsy of vulva,,,FEML
+35618-00,Cone biopsy of cervix,,,FEML
+35618-01,Cone biopsy of cervix by laser,,,FEML
+35618-02,Repair of cervix,,,FEML
+35618-03,Other procedures on cervix,,,FEML
+35620-01,Biopsy of uterus,,,FEML
+35620-02,Laparoscopic biopsy of uterus,,,FEML
+35622-00,Endosc destruction proc on uterus,,,FEML
+35623-00,Myomectomy of uterus via hysteroscopy,,,FEML
+35630-00,Diagnostic hysteroscopy,,,FEML
+35633-00,Division of intrauterine adhesions,,,FEML
+35633-01,Polypectomy of uterus via hysteroscopy,,,FEML
+35633-02,Hysteroscopy w tubal catheterisation,,,FEML
+35634-00,"Division uterine septum, hysteroscopy",,,FEML
+35637-02,Lap diathermy of lesion of pelvic cavity,,,FEML
+35637-04,Laparoscopic ventrosuspension,,,FEML
+35637-06,Biopsy of ovary,,,FEML
+35637-07,Lap rupture ovarian cyst or abscess,,,FEML
+35637-08,Laparoscopic ovarian drilling,,,FEML
+35637-10,Lap excision of lesion of pelvic cavity,,,FEML
+35638-00,Laparoscopic wedge resection of ovary,,,FEML
+35638-01,Laparoscopic partial oophorectomy,,,FEML
+35638-02,"Laparoscopic oophorectomy, unilateral",,,FEML
+35638-03,"Laparoscopic oophorectomy, bilateral",,,FEML
+35638-04,"Laparoscopic ovarian cystectomy, uni",,,FEML
+35638-05,"Laparoscopic ovarian cystectomy, bil",,,FEML
+35638-06,Laparoscopic salpingotomy,,,FEML
+35638-07,"Laparoscopic partial salpingectomy, uni",,,FEML
+35638-08,"Laparoscopic partial salpingectomy, bil",,,FEML
+35638-09,"Laparoscopic salpingectomy, unilateral",,,FEML
+35638-10,"Laparoscopic salpingectomy, bilateral",,,FEML
+35638-11,"Laparoscopic salpingo-oophorectomy, uni",,,FEML
+35638-12,"Laparoscopic salpingo-oophorectomy, bil",,,FEML
+35638-14,Lap uterosacral nerve ablation,,,FEML
+35640-00,Dilation & curettage of uterus [D&C],,,FEML
+35640-01,Curettage of uterus without dilation,,,FEML
+35640-02,Dilation of cervix,,,FEML
+35640-03,Suction curettage of uterus,,,FEML
+35643-03,Dilation and evacuation of uterus [D&E],,,FEML
+35646-00,Radical diathermy of cervix,,,FEML
+35647-00,Large loop excision transformation zone,,,FEML
+35649-00,Hysterotomy,,,FEML
+35649-01,Myomectomy of uterus via laparoscopy,,,FEML
+35649-02,Division uterine septum via hysterotomy,,,FEML
+35649-03,Myomectomy of uterus,,,FEML
+35653-00,Subtotal abdominal hysterectomy,,,FEML
+35653-01,Total abdominal hysterectomy,,,FEML
+35653-05,Laparoscopic subtotal abdo hysterectomy,,,FEML
+35653-07,Laparoscopic total abdo hysterectomy,,,FEML
+35657-00,Vaginal hysterectomy,,,FEML
+35658-00,Debulking uterus preceding hysterectomy,,,FEML
+35667-00,Radical abdominal hysterectomy,,,FEML
+35667-01,Radical vaginal hysterectomy,,,FEML
+35667-02,Laparoscopic radical abdo hysterectomy,,,FEML
+35667-03,Lap asst radical vaginal hysterectomy,,,FEML
+35674-00,Fetotoxic inj/o ectopic preg using u/s,,,FEML
+35674-01,Fetotoxic inj/o ectopic preg v lap,,,FEML
+35677-01,Manual/hydrostatic expres fallopian tube,,,FEML
+35677-02,Fetotoxic injection ectopic pregnancy,,,FEML
+35677-03,Fetotoxic management R/O ectopic preg,,,FEML
+35677-04,Salpingotomy w removal tubal pregnancy,,,FEML
+35677-05,Salpingectomy w removal tubal pregnancy,,,FEML
+35678-00,Lap salpingotomy w R/O tubal pregnancy,,,FEML
+35678-01,Lap salpingectomy w R/O tubal pregnancy,,,FEML
+35680-00,Lap reconstruction uterus & support str,,,FEML
+35680-01,Reconstruction uterus & supporting str,,,FEML
+35684-00,Other laparoscopic uterine suspension,,,FEML
+35684-01,Uterine suspension,,,FEML
+35688-00,Laparoscopic sterilisation,,,FEML
+35688-01,Sterilisation via vaginal approach,,,FEML
+35688-02,Sterilisation open abdominal approach,,,FEML
+35688-03,Lap electrodestruction fallopian tubes,,,FEML
+35688-04,Electrodestruction of fallopian tubes,,,FEML
+35694-00,Laparoscopic salpingoplasty,,,FEML
+35694-01,Lap anastomosis of fallopian tube,,,FEML
+35694-02,Laparoscopic salpingolysis,,,FEML
+35694-03,Laparoscopic salpingostomy,,,FEML
+35694-04,Salpingoplasty,,,FEML
+35694-05,Anastomosis of fallopian tube,,,FEML
+35694-06,Salpingolysis,,,FEML
+35694-07,Salpingostomy,,,FEML
+35697-00,Microsurgical salpingoplasty,,,FEML
+35703-00,Test for tubal patency,,,FEML
+35703-01,Therapeutic hydrotubation,,,FEML
+35710-00,Falloposcopy,,,FEML
+35713-01,Diathermy of lesion of pelvic cavity,,,FEML
+35713-02,Rupture of ovarian cyst or abscess,,,FEML
+35713-03,Ovarian drilling,,,FEML
+35713-04,"Ovarian cystectomy, unilateral",,,FEML
+35713-05,Wedge resection of ovary,,,FEML
+35713-06,Partial oophorectomy,,,FEML
+35713-07,"Oophorectomy, unilateral",,,FEML
+35713-08,"Partial salpingectomy, unilateral",,,FEML
+35713-09,"Salpingectomy, unilateral",,,FEML
+35713-11,"Salpingo-oophorectomy, unilateral",,,FEML
+35713-12,Salpingotomy,,,FEML
+35713-14,Excision of lesion of pelvic cavity,,,FEML
+35717-00,"Ovarian cystectomy, bilateral",,,FEML
+35717-01,"Oophorectomy, bilateral",,,FEML
+35717-02,"Partial salpingectomy, bilateral",,,FEML
+35717-03,"Salpingectomy, bilateral",,,FEML
+35717-04,"Salpingo-oophorectomy, bilateral",,,FEML
+35720-00,Debulking of lesion of pelvic cavity,,,FEML
+35729-00,Laparoscopic transposition of ovary,,,FEML
+35729-01,Transposition of ovary,,,FEML
+35750-00,Lap assisted vaginal hysterectomy,,,FEML
+35759-00,Control postop haem foll gyn surg NEC,,,FEML
+35759-01,Control of post abortion haemorrhage NEC,,,FEML
+36815-00,Endoscopic destruction of penile wart,,,MALE
+37029-00,Lap closure vesicovaginal fistula,,,FEML
+37029-01,Abdominal closure vesicovaginal fistula,,,FEML
+37043-00,Transvaginl needle suspnsn stress incont,,,FEML
+37044-00,Retropubic proc male stress incontinence,,,MALE
+37044-01,Retropubic proc for female stress incont,,,FEML
+37044-02,Rev retropubic proc female stress incont,,,FEML
+37044-03,"Rev retropubic proc, male stress incont",,,MALE
+37200-03,Suprapubic prostatectomy,,,MALE
+37200-04,Retropubic prostatectomy,,,MALE
+37200-05,Other open prostatectomy,,,MALE
+37203-06,Other closed prostatectomy,,,MALE
+37209-00,Radical prostatectomy,,,MALE
+37209-01,Laparoscopic radical prostatectomy,,,MALE
+37210-00,Rad prostatectomy w bladder neck recon,,,MALE
+37210-01,Lap rad prstectmy w bladder neck recon,,,MALE
+37211-00,"Rad prstectmy w recon, lymphadenectomy",,,MALE
+37211-01,Lap rad prstectmy bldnk recon lmphad,,,MALE
+37212-00,Open biopsy of prostate or sem ves,,,MALE
+37212-01,Drainage of abscess of prostate,,,MALE
+37212-02,Incision of prostate,,,MALE
+37215-00,Endoscopic biopsy of prostate,,,MALE
+37216-00,Bx prost / sem ves v trnsrectl,,,MALE
+37218-00,Needle biopsy of prostate or sem ves,,,MALE
+37218-01,Administration of agent into prostate,,,MALE
+37219-01,Bx prost / sem ves v trnsperinl,,,MALE
+37221-00,Endoscopic drainage abscess of prostate,,,MALE
+37223-00,Ins prostatic stent/coil,,,MALE
+37224-00,Endosc destruction proc on prostate,,,MALE
+37224-03,Endoscopic resection of prostate,,,MALE
+37227-00,Impl brachythrpy applicator prostate,,,MALE
+37309-00,Rep lacr/rupt prostatic memb seg urethra,,,MALE
+37333-00,Closure of urethrovaginal fistula,,,FEML
+37339-00,"Inj/o paraurethral bulk, female incont",,,FEML
+37339-01,"Inj/o para-urethral bulk, male incont",,,MALE
+37340-00,Div ureth slg foll stres incont proc,,,FEML
+37354-00,Meatotomy & hemicircumcisn f hypospadias,,,MALE
+37393-00,"Decomp priapism, stab cavrnspgsum shunt",,,MALE
+37393-01,Decomp priapism by penile aspiration,,,MALE
+37396-00,Shunt procedure for priapism,,,MALE
+37402-00,Partial amputation of penis,,,MALE
+37405-00,Complete amputation of penis,,,MALE
+37408-00,Repair laceration cavernous tissue penis,,,MALE
+37408-01,Repair fracture inv cavernous tis penis,,,MALE
+37411-00,Repair of avulsion of penis,,,MALE
+37415-00,Administration of agent into penis,,,MALE
+37417-00,Correction of chordee of penis,,,MALE
+37417-01,Correction of chordee of penis w graft,,,MALE
+37418-00,Cor chordee penis w mobilisn of urethra,,,MALE
+37418-01,Cor chordee penis w gft/mobilisn urethra,,,MALE
+37420-00,Ligation vein inhibit rapid penile drain,,,MALE
+37423-00,"Lengthening penis, translocation corpora",,,MALE
+37426-00,Ins artf erection device noninflatable,,,MALE
+37426-01,Insertion artf erection dev inflatable,,,MALE
+37429-00,"Ins pmp & press reg resv, artf erect dev",,,MALE
+37432-00,Partial revision artificial erection dev,,,MALE
+37432-01,Complete revision artf erection dev,,,MALE
+37432-02,R/O components artf erect dev wo replace,,,MALE
+37435-00,Fraenuloplasty of penis,,,MALE
+37438-00,Partial excision of scrotum,,,MALE
+37601-00,"Excision of spermatocele, unilateral",,,MALE
+37601-01,"Excision of spermatocele, bilateral",,,MALE
+37601-02,"Excision of epididymal cyst, unilateral",,,MALE
+37601-03,"Excision of epididymal cyst, bilateral",,,MALE
+37604-00,"Exploration scrotal contents, unilateral",,,MALE
+37604-01,"Exploration scrotal contents, bilateral",,,MALE
+37604-02,"Exploration scrotal contents w Bx, uni",,,MALE
+37604-03,"Exploration scrotal contents w Bx, bil",,,MALE
+37604-06,Incision of testis,,,MALE
+37604-09,Laparoscopic fixation of testis uni,,,MALE
+37604-10,Fixation of testis unilateral,,,MALE
+37604-11,Laparoscopic fixation of testis bi,,,MALE
+37604-12,Fixation of testis bilateral,,,MALE
+37604-13,Laparoscopic refixation of testis uni,,,MALE
+37604-14,Refixation of testis unilateral,,,MALE
+37604-15,Laparoscopic refixation of testis bi,,,MALE
+37604-16,Refixation of testis bilateral,,,MALE
+37604-17,Perc aspr drain scrotum tunica vaginalis,,,MALE
+37604-18,Perc Bx scrotum or tunica vaginalis,,,MALE
+37605-00,Percutaneous aspiration of epididymis,,,MALE
+37605-01,Percutaneous aspiration of testis,,,MALE
+37606-00,Sperm aspiration fm epididymis,,,MALE
+37606-01,Sperm aspiration from testis,,,MALE
+37613-00,"Epididymectomy, unilateral",,,MALE
+37613-01,"Epididymectomy, bilateral",,,MALE
+37616-00,"Microsurgical vasovasostomy, unilateral",,,MALE
+37616-01,"Microsurgical vasovasostomy, bilateral",,,MALE
+37616-02,"Microsurgical vasoepididymostomy, uni",,,MALE
+37616-03,"Microsurgical vasoepididymostomy, bil",,,MALE
+37619-00,"Vasovasostomy, unilateral",,,MALE
+37619-01,"Vasovasostomy, bilateral",,,MALE
+37619-02,"Vasoepididymostomy, unilateral",,,MALE
+37619-03,"Vasoepididymostomy, bilateral",,,MALE
+37623-00,"Vasotomy, unilateral",,,MALE
+37623-01,"Vasotomy, bilateral",,,MALE
+37623-02,"Vasectomy, unilateral",,,MALE
+37623-03,"Vasectomy, bilateral",,,MALE
+37812-00,Exploration groin for impalpable testis,,,MALE
+37815-00,Hypospadias exam w erection test,,,MALE
+37818-00,Glanuloplasty for hypospadias,,,MALE
+37821-00,"Distal hypospadias, single stage repair",,,MALE
+37824-00,Proximal hypospadias single stage repair,,,MALE
+37827-00,"Hypospadias, staged repair, first stage",,,MALE
+37830-00,"Hypospadias, staged repair, second stage",,,MALE
+37833-00,Hypospadias rep postop urethral fistula,,,MALE
+37836-00,"Epispadias, staged repair, first stage",,,MALE
+37839-00,"Epispadias, staged repair, second stage",,,MALE
+37842-00,"Epispadias, secondary repair",,,MALE
+37842-01,"Epispadias, sec repair, ureteric re-impl",,,MALE
+37845-00,Rdctn clitoroplasty ambiguous genitalia,,,FEML
+37848-00,Rdctn clitorply & vaginply ambig gen,,,FEML
+37851-00,Vaginoplasty for congenital condition,,,FEML
+55048-00,Ultrasound of scrotum,,,MALE
+55282-00,Duplex ultrasound of artery of penis,,,MALE
+55284-00,Duplex u/s of cavernosal tissue of penis,,,MALE
+55600-00,"U/s prostate, bladder, urethra",,,MALE
+59300-00,"Radiography of breast, bilateral",,,FEML
+59300-01,"Radiography breast w thermography, bil",,,FEML
+59303-00,"Radiography of breast, unilateral",,,FEML
+59303-01,"Radiography breast w thermography, uni",,,FEML
+59306-00,Mammary ductography of breast unilateral,,,FEML
+59309-00,"Mammary ductography of breast, bilateral",,,FEML
+59712-00,Hysterosalpingography,,,FEML
+59736-00,Vaso-epididymography,,,MALE
+61401-00,Testicular study,,,MALE
+90391-00,Incision of seminal vesicle,,,MALE
+90392-00,Control postop haemorrhage of prostate,,,MALE
+90393-00,Excision of seminal vesicle,,,MALE
+90394-00,Trnsureth balln dilat prostatic urethra,,,MALE
+90395-00,Other procedures on prostate,,,MALE
+90395-01,Other procedures on seminal vesicle,,,MALE
+90396-00,Excision of lesion of tunica vaginalis,,,MALE
+90397-00,Sut laceration scrotum/tunica vaginalis,,,MALE
+90397-01,Other repair scrotum or tunica vaginalis,,,MALE
+90398-00,Other dx proc scrotum/tunica vaginalis,,,MALE
+90398-01,Other proc on scrotum/tunica vaginalis,,,MALE
+90399-00,Reduction torsion testis/spermatic cord,,,MALE
+90400-00,Other repair of testis,,,MALE
+90401-00,Other diagnostic procedures on testis,,,MALE
+90401-01,Other procedures on testis,,,MALE
+90402-00,Incision of penis,,,MALE
+90402-01,Division of penile adhesions,,,MALE
+90402-02,Dorsal or lateral slit of prepuce,,,MALE
+90403-00,Local excision of lesion of penis,,,MALE
+90404-00,Other repair of penis,,,MALE
+90405-00,Other penile proc for sex transformation,,,MALE
+90405-01,Other procedures on penis,,,MALE
+90406-00,Other procedures on male genital organs,,,MALE
+90407-00,Excision of other lesion of prostate,,,MALE
+90408-00,Destruction procedures on prostate,,,MALE
+90408-02,Oth closed destruction proc on prostate,,,MALE
+90409-00,Implantation of other device(s) prostate,,,MALE
+90430-00,Other laparoscopic repair of ovary,,,FEML
+90430-01,Other repair of ovary,,,FEML
+90431-00,Other procedures on ovary,,,FEML
+90432-00,Biopsy of fallopian tube,,,FEML
+90433-00,Other lap repair of fallopian tube,,,FEML
+90433-01,Other repair of fallopian tube,,,FEML
+90434-00,Other procedures on fallopian tube,,,FEML
+90435-00,Other laparoscopic repair of uterus,,,FEML
+90435-01,Other repair of uterus,,,FEML
+90436-00,Other procedures on uterus,,,FEML
+90437-00,Other destruction of lesion of vagina,,,FEML
+90438-00,Other procedures on vagina,,,FEML
+90439-00,Other destruction of lesion of vulva,,,FEML
+90440-00,Excision of lesion of vulva,,,FEML
+90441-00,Other procedures on vulva,,,FEML
+90441-01,Other procedures on clitoris,,,FEML
+90442-00,Other procedures female genital organs,,,FEML
+90443-00,Other excision of uterus,,,FEML
+90444-00,Repair of vaginoperineal fistula,,,FEML
+90445-00,Rdctn clitoroplasty reloc ureth orifce,,,FEML
+90446-00,Other incision of vulva or perineum,,,FEML
+90447-00,Rep of fist of vagina w biol sealant,,,FEML
+90449-00,Other repair of vagina,,,FEML
+90451-00,Other destruction procedures on uterus,,,FEML
+90452-00,Excision of other lesion of uterus,,,FEML
+92103-00,Vaginal douche,,,FEML
+92104-00,Vaginal packing,,,FEML
+92104-01,Manual reduction of uterine prolapse,,,FEML
+92105-00,Insertion of vaginal mould,,,FEML
+92106-00,Insertion of vaginal diaphragm,,,FEML
+92107-00,Insertion of other vaginal pessary,,,FEML
+92108-00,Replacement of vaginal diaphragm,,,FEML
+92109-00,Replacement of other vaginal pessary,,,FEML
+92110-00,Replace vaginal/vulvar packing or drain,,,FEML
+92111-00,Removal of intrauterine pack,,,FEML
+92112-00,Removal of vaginal or vulvar packing,,,FEML
+92113-00,Removal of vaginal diaphragm,,,FEML
+92114-00,Removal of other vaginal pessary,,,FEML
+92115-00,Removal of prostatic stent or coil,,,MALE
+92123-00,Removal of FB from uterus wo incision,,,FEML
+92124-00,Removal of FB from vagina wo incision,,,FEML
+92125-00,Removal of FB from vulva wo incision,,,FEML
+92126-00,Removal FB scrotum / penis wo incision,,,MALE
+92130-01,Specimen colln cervical cancer screening,,,FEML
+92131-00,Prostatic massage,,,MALE
+92132-00,Stretching of foreskin,,,MALE
+96226-00,Control of haemorrhage of cervix,,,FEML
+96227-00,"Insertion of testicular prosthesis, uni",,,MALE
+96227-01,"Insertion of testicular prosthesis, bil",,,MALE
+96227-02,R/O FB or device from scrotum w incision,,,MALE
+96228-00,Compression suture of uterus,,,FEML
+96235-00,Total excision of cervix laparoscopic,,,FEML
+96235-01,Total exc cervix lap assisted vag appr,,,FEML
+96235-02,Total exc cervix vaginal approach,,,FEML
+96235-03,Total exc of cervix abdominal approach,,,FEML
+96235-04,Radical excision of cervix laparoscopic,,,FEML
+96235-05,Radical exc cervix lap asst vag appr,,,FEML
+96235-06,Radical exc of cervix vaginal approach,,,FEML
+96235-07,Radical exc of cervix abdominal appr,,,FEML
+96251-00,Impl brachythrpy applr female gen org,,,FEML
+96251-01,Removal brachythrpy applr female gen org,,,FEML
+96256-00,R/O brachythrpy applr prostate,,,MALE

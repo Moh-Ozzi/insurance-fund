@@ -1,0 +1,2440 @@
+code,description,age_l,age_h,sex
+A33,Tetanus neonatorum,0,201,
+A34,Obstetrical tetanus,210,260,FEML
+A50.3,Late congenital syphilitic oculopathy,201,324,
+A50.4,Late congenital (juvenile) neurosyphilis,201,324,
+A50.5,Other late cong syphilis symptomatic,201,324,
+A50.6,Late congenital syphilis latent,201,324,
+A50.7,Late congenital syphilis unspecified,201,324,
+A51.0,Primary genital syphilis,215,324,
+A51.1,Primary anal syphilis,215,324,
+A51.2,Primary syphilis of other sites,215,324,
+A51.3,Sec syphilis of skin & mucous membranes,215,324,
+A51.4,Other secondary syphilis,215,324,
+A51.5,Early syphilis latent,215,324,
+A51.9,Early syphilis unspecified,215,324,
+A52.0,Cardiovascular syphilis,215,324,
+A52.1,Symptomatic neurosyphilis,215,324,
+A52.2,Asymptomatic neurosyphilis,215,324,
+A52.3,Neurosyphilis unspecified,215,324,
+A52.7,Other symptomatic late syphilis,215,324,
+A52.8,Late syphilis latent,215,324,
+A52.9,Late syphilis unspecified,215,324,
+A53.0,Latent syphilis unsp as early or late,215,324,
+A53.9,Syphilis unspecified,215,324,
+A54.0,Low GU gon infectn wo abs acc periur gld,215,324,
+A54.1,Low GU gon infectn w abs acc periur gld,215,324,
+A54.2,Gon pelviperitonitis & oth gon GU infect,215,324,
+A54.4,Gonococcal infectn musculoskeletal sys,215,324,
+A54.5,Gonococcal pharyngitis,215,324,
+A54.6,Gonococcal infection of anus and rectum,215,324,
+A54.8,Other gonococcal infections,215,324,
+A54.9,Gonococcal infection unspecified,215,324,
+A55,Chlamydial lymphogranuloma (venereum),215,324,
+A56.0,Chlamydial infection lower GU tract,215,324,
+A56.1,Chlamydial infectn pelviperit oth GU org,215,324,
+A56.2,Chlamydial infectn GU tract unspecified,215,324,
+A56.3,Chlamydial infection of anus and rectum,215,324,
+A56.4,Chlamydial infection of pharynx,215,324,
+A56.8,Sex trans chlamydial infectn other sites,215,324,
+A57,Chancroid,215,324,
+A58,Granuloma inguinale,215,324,
+A59.0,Urogenital trichomoniasis,215,324,
+A59.8,Trichomoniasis of other sites,215,324,
+A59.9,Trichomoniasis unspecified,215,324,
+A60.0,Herpesviral infectn genitalia & GU tract,215,324,
+A60.1,Herpesviral infectn perianal skin rectum,215,324,
+A60.9,Anogenital herpesviral infection unsp,215,324,
+A63.00,Anogen (venereal) warts unspecified site,215,324,
+A63.01,Perianal (venereal) warts,215,324,
+A63.02,Cervical (venereal) warts,215,324,FEML
+A63.03,Urethral (venereal) warts,215,324,
+A63.04,Vaginal (venereal) warts,215,324,FEML
+A63.05,Vulval (venereal) warts,215,324,FEML
+A63.06,Penile (venereal) warts,215,324,MALE
+A63.07,Scrotal (venereal) warts,215,324,MALE
+A63.09,Anogen (venereal) warts other site,215,324,
+A63.8,Other spec predom sexually trans disease,215,324,
+A64,Unspecified sexually transmitted disease,215,324,
+B90.0,Sequelae of CNS tuberculosis,230,324,
+B90.1,Sequelae of genitourinary tuberculosis,230,324,
+B90.2,Sequelae of tuberculosis bones & joints,230,324,
+B90.8,Sequelae of tuberculosis of other organs,230,324,
+B90.9,Sequelae of respiratory & unspecified TB,230,324,
+B91,Sequelae of poliomyelitis,215,324,
+B92,Sequelae of leprosy,230,324,
+B94.0,Sequelae of trachoma,201,324,
+B94.1,Sequelae of viral encephalitis,201,324,
+B94.2,Sequelae of viral hepatitis,201,324,
+B94.8,Seq of other spec infect & parasitic dis,201,324,
+B94.9,Seq of unsp infect & parasitic dis,201,324,
+C58,Malignant neoplasm of placenta,210,260,FEML
+C61,Malignant neoplasm of prostate,230,324,MALE
+E11.01,Type 2 DM w hyperosmolarity wo NKHHC,215,324,
+E11.02,Type 2 DM w hyperosmolarity with coma,215,324,
+E11.11,"Type 2 DM w ketoacidosis, wo coma",215,324,
+E11.12,"Type 2 DM w ketoacidosis, w coma",215,324,
+E11.13,"Type 2 DM w lactic acidosis, wo coma",215,324,
+E11.14,"Type 2 DM w lactic acidosis, w coma",215,324,
+E11.15,Type 2 DM w keto lactic acidosis wo coma,215,324,
+E11.16,Type 2 DM w keto lactic acidosis w coma,215,324,
+E11.21,Type 2 DM w incipient diab nephropathy,215,324,
+E11.22,Type 2 DM w est diab nephropathy,215,324,
+E11.29,Type 2 DM w other spec kidney comp,215,324,
+E11.31,Type 2 DM w background retinopathy,215,324,
+E11.32,Type 2 DM w preproliferative retinopathy,215,324,
+E11.33,Type 2 DM w proliferative retinopathy,215,324,
+E11.34,Type 2 DM w other retinopathy,215,324,
+E11.35,Type 2 DM w advanced ophthalmic dis,215,324,
+E11.36,Type 2 DM w diabetic cataract,215,324,
+E11.39,Type 2 DM w other spec ophthalmic comp,215,324,
+E11.40,Type 2 DM w unspecified neuropathy,215,324,
+E11.41,Type 2 DM w diabetic mononeuropathy,215,324,
+E11.42,Type 2 DM w diabetic polyneuropathy,215,324,
+E11.43,Type 2 DM w diab autonomic neuropathy,215,324,
+E11.49,Type 2 DM w oth spec neurological comp,215,324,
+E11.51,Type 2 DM w perph angiopathy wo gangr,215,324,
+E11.52,Type 2 DM w perph angiopathy w gangr,215,324,
+E11.53,Type 2 DM w diab cardiomyopathy,215,324,
+E11.61,Type 2 DM w spec diab M/S con tis comp,215,324,
+E11.62,Type 2 DM w spec skin & sbc tis comp,215,324,
+E11.63,Type 2 DM w spec periodontal comp,215,324,
+E11.64,Type 2 diabetes mellitus w hypoglycaemia,215,324,
+E11.65,Type 2 diabetes mellitus w poor control,215,324,
+E11.69,Type 2 DM w other specified complication,215,324,
+E11.71,Type 2 DM w mult microvas oth nnvas comp,215,324,
+E11.72,Type 2 DM w features insulin resistance,215,324,
+E11.73,Type 2 DM w foot ulcer dt mult causes,215,324,
+E11.8,Type 2 DM w unspecified complication,215,324,
+E11.9,Type 2 diabetes mellitus wo complication,215,324,
+E30.1,Precocious puberty,0,210,
+E30.8,Other disorders of puberty,208,219,
+E30.9,Disorder of puberty unspecified,208,219,
+E55.0,Rickets active,0,219,
+E56.1,Deficiency of vitamin K,101,324,
+E63.0,Essential fatty acid [EFA] deficiency,101,324,
+E63.1,Imbalance of constituents of food intake,101,324,
+E63.8,Other specified nutritional deficiencies,101,324,
+E63.9,Nutritional deficiency unspecified,101,324,
+E64.0,Sequelae of protein-energy malnutrition,101,324,
+E64.1,Sequelae of vitamin A deficiency,101,324,
+E64.2,Sequelae of vitamin C deficiency,101,324,
+E64.3,Sequelae of rickets,101,324,
+E64.8,Sequelae other nutritional deficiencies,101,324,
+E64.9,Sequelae unsp nutritional deficiency,101,324,
+E65,Localised adiposity,101,324,
+E66.10,Drug-ind obesity BMI NEC,101,324,
+E66.11,Drug-ind obesity BMI 30 to 34.99,218,324,
+E66.12,Drug-ind obesity BMI 35 to 39.99,218,324,
+E66.13,Drug-ind obesity BMI 40 or more,218,324,
+E66.20,Obesity w alv hypovent BMI NEC,101,324,
+E66.21,Obesity w alv hypovent BMI 30 to 34.99,218,324,
+E66.22,Obesity w alv hypovent BMI 35 to 39.99,218,324,
+E66.23,Obesity w alv hypovent BMI 40 or more,218,324,
+E66.3,Overweight,101,324,
+E66.90,Obesity NEC BMI NEC,101,324,
+E66.91,Obesity NEC BMI 30 to 34.99,218,324,
+E66.92,Obesity NEC BMI 35 to 39.99,218,324,
+E66.93,Obesity NEC BMI 40 or more,218,324,
+E67.0,Hypervitaminosis A,101,324,
+E67.1,Hypercarotenaemia,101,324,
+E67.2,Megavitamin-B6 syndrome,101,324,
+E67.3,Hypervitaminosis D,101,324,
+E67.8,Other specified hyperalimentation,101,324,
+E68,Sequelae of hyperalimentation,101,324,
+F01.00,Vascular demnt of acute onset wo BPSD,215,324,
+F01.01,Vascular demnt of acute onset w BPSD,215,324,
+F01.10,Multi-infarct dementia wo BPSD,215,324,
+F01.11,Multi-infarct dementia w BPSD,215,324,
+F01.20,Subcortical vascular dementia wo BPSD,215,324,
+F01.21,Subcortical vascular demnt w BPSD,215,324,
+F01.30,Mixed vasc demnt wo BPSD,215,324,
+F01.31,Cortical & subcortical vasc demnt w BPSD,215,324,
+F01.80,Other vascular dementia wo BPSD,215,324,
+F01.81,Other vascular dementia w BPSD,215,324,
+F01.90,Vascular dementia unsp wo BPSD,215,324,
+F01.91,Vascular dementia unsp w BPSD,215,324,
+F03.00,Unspecified dementia wo BPSD,215,324,
+F03.01,Unspecified dementia w BPSD,215,324,
+F32.01,Mild depres ep in postnatal period,210,260,
+F32.11,Mod depres ep in postnatal period,210,260,
+F32.21,Sev depres ep wo psych sym in postnatal,210,260,
+F32.31,Sev depres ep w psych sym in postnatal,210,260,
+F32.81,Other depres ep in postnatal period,210,260,
+F32.91,Depres ep unsp in the postnatal period,210,260,
+F52.4,Premature ejaculation,215,324,MALE
+F52.5,Nonorganic vaginismus,215,324,FEML
+F52.6,Nonorganic dyspareunia,215,324,
+F53.0,Mild ment & beh disrd ass w puerp NEC,210,260,
+F53.1,Sev ment & beh disrd ass w puerp NEC,210,260,
+F53.8,Oth ment & beh disrd ass w puerp NEC,210,260,
+F53.9,Puerperal mental disorder unspecified,210,260,
+F80.0,Specific speech articulation disorder,201,324,
+F80.1,Expressive language disorder,201,324,
+F80.2,Receptive language disorder,201,324,
+F80.3,Acquired aphasia with epilepsy,201,324,
+F80.8,Oth development disrd speech & language,201,324,
+F80.9,Development disrd speech & language unsp,201,324,
+F81.0,Specific reading disorder,201,324,
+F81.1,Specific spelling disorder,201,324,
+F81.2,Specific disorder of arithmetical skills,201,324,
+F81.3,Mixed disorder of scholastic skills,201,324,
+F81.8,Oth development disrd scholastic skills,201,324,
+F81.9,Development disrd scholastic skills unsp,201,324,
+F82,Spec development disorder motor function,201,324,
+F83,Mixed specific developmental disorders,201,324,
+F88,Oth disorders psychological development,201,324,
+F89,Unsp disorder psychological development,201,324,
+G12.2,Motor neuron disease,215,324,
+G20,Parkinson's disease,215,324,
+G25.8,Oth spec extrapyramidal & movement disrd,215,324,
+G25.9,Extrapyramidal & movement disorder unsp,215,324,
+G30.1,Alzheimer's disease with late onset,230,324,
+G30.8,Other Alzheimer's disease,215,324,
+G30.9,Alzheimer's disease unspecified,215,324,
+G31.0,Circumscribed brain atrophy,215,324,
+G31.1,Senile degeneration of brain NEC,215,324,
+G31.2,Degeneration nervous system dt alcohol,215,324,
+G31.9,Degenerative disease nervous system unsp,215,324,
+G32.0,Subac cmb degen spinal cord in dis cl/e,215,324,
+G32.8,Oth spec degen disrd nrvs sys dis cl/e,215,324,
+G35,Multiple sclerosis,215,324,
+G47.30,"Sleep apnoea, unspecified",201,324,
+G47.31,Central sleep apnoea syndrome,201,324,
+G47.32,Obstructive sleep apnoea syndrome [OSAS],201,324,
+G47.33,Sleep hypoventilation syndrome,201,324,
+G47.39,Other sleep apnoea,201,324,
+G93.7,Reye's syndrome,0,219,
+H25.0,Senile incipient cataract,230,324,
+H25.1,Senile nuclear cataract,230,324,
+H25.2,Senile cataract morgagnian type,230,324,
+H25.8,Other senile cataract,230,324,
+H25.9,Senile cataract unspecified,230,324,
+H40.0,Glaucoma suspect,201,324,
+H40.1,Primary open-angle glaucoma,201,324,
+H40.2,Primary angle-closure glaucoma,201,324,
+H40.3,Glaucoma secondary to eye trauma,201,324,
+H40.4,Glaucoma secondary to eye inflammation,201,324,
+H40.5,Glaucoma secondary to oth eye disorders,201,324,
+H40.6,Glaucoma secondary to drugs,201,324,
+H40.8,Other glaucoma,201,324,
+H40.9,Glaucoma unspecified,201,324,
+H42.0,Glaucoma in endocrine nutrit metab dis,201,324,
+H42.8,Glaucoma in oth diseases class elsewhere,201,324,
+I09.0,Rheumatic myocarditis,201,324,
+I09.1,Rheumatic dis endocardium unsp valve,201,324,
+I09.2,Chronic rheumatic pericarditis,201,324,
+I09.8,Other specified rheumatic heart diseases,201,324,
+I09.9,Rheumatic heart disease unspecified,201,324,
+I10,Essential (primary) hypertension,215,324,
+I11.0,Hypertensive heart dis w heart failure,215,324,
+I11.9,Hypertensive heart dis wo heart failure,215,324,
+I12.0,Hypertensive kidney dis w kidney failure,215,324,
+I12.9,H/T kidney dis wo kidney failure,215,324,
+I13.0,H/T heart & kidney dis w heart failure,215,324,
+I13.1,H/T heart & kidney dis w kidney failure,215,324,
+I13.2,H/T hrt & kidney dis w hrt kidney fail,215,324,
+I13.9,Hypertensive heart & kidney disease unsp,215,324,
+I15.0,Renovascular hypertension,215,324,
+I15.1,Hypertension sec to oth kidney disorder,215,324,
+I15.2,Hypertension sec to endocrine disorders,215,324,
+I15.8,Other secondary hypertension,215,324,
+I15.9,Secondary hypertension unspecified,215,324,
+I20.0,Unstable angina,215,324,
+I20.1,Angina pectoris with documented spasm,215,324,
+I20.8,Other forms of angina pectoris,215,324,
+I20.9,Angina pectoris unspecified,215,324,
+I21.0,Acute transmural MI of anterior wall,215,324,
+I21.1,Acute transmural MI of inferior wall,215,324,
+I21.2,Acute transmural MI of other sites,215,324,
+I21.3,Acute transmural MI of unspecified site,215,324,
+I21.4,Acute subendocardial MI,215,324,
+I21.9,Acute myocardial infarction unspecified,215,324,
+I22.0,Subsequent MI of anterior wall,215,324,
+I22.1,Subsequent MI of inferior wall,215,324,
+I22.8,Subsequent MI of other sites,215,324,
+I22.9,Subsequent MI of unspecified site,215,324,
+I23.0,Haemopericardium current comp foll ac MI,215,324,
+I23.1,ASD as current comp following acute MI,215,324,
+I23.2,VSD as current comp following acute MI,215,324,
+I23.3,Rupt card wall wo hemopericrd foll ac MI,215,324,
+I23.4,Rupt chordae tendineae comp foll ac MI,215,324,
+I23.5,Rupt papillary muscle comp foll ac MI,215,324,
+I23.6,Atrl thromb auric append ventric w ac MI,215,324,
+I23.8,Other current complication foll acute MI,215,324,
+I24.0,Coronary thrombosis not resulting in MI,215,324,
+I24.8,Other forms of acute IHD,215,324,
+I24.9,Acute ischaemic heart disease unsp,215,324,
+I25.0,Atherosclerotic C-V disease so described,215,324,
+I25.10,Atherosclerotic heart dis unsp vessel,215,324,
+I25.11,Atheroscl heart dis native coron artery,215,324,
+I25.12,Atheroscl heart dis autolgs byps graft,215,324,
+I25.13,Atheroscl heart dis nonautolgs byps gft,215,324,
+I25.2,Old myocardial infarction,215,324,
+I25.3,Aneurysm of heart,215,324,
+I25.4,Coronary artery aneurysm and dissection,215,324,
+I25.5,Ischaemic cardiomyopathy,215,324,
+I25.6,Silent myocardial ischaemia,215,324,
+I25.8,Other forms of chronic IHD,215,324,
+I25.9,Chronic IHD unspecified,215,324,
+I26.0,Pulm embolism w acute cor pulmonale,201,324,
+I27.0,Primary pulmonary hypertension,201,324,
+I27.1,Kyphoscoliotic heart disease,201,324,
+I70.0,Atherosclerosis of aorta,215,324,
+I70.1,Atherosclerosis of renal artery,215,324,
+I70.20,Atherosclerosis of art of extrem unsp,215,324,
+I70.21,Atheroscl artery extrem w intermit claud,215,324,
+I70.22,Atheroscl artery extrem w rest pain,215,324,
+I70.23,Atherosclerosis artery extremity w ulcer,215,324,
+I70.24,Atherosclerosis artery extrem w gangrene,215,324,
+I70.8,Atherosclerosis of other arteries,215,324,
+I70.9,Genl & unspecified atherosclerosis,215,324,
+I83.0,Varicose veins lower extremities w ulcer,215,324,
+I83.1,Varicose veins low extrem w inflammation,215,324,
+I83.2,Varicose veins legs w ulcer & inflam,215,324,
+I83.9,Varicose veins legs wo ulcer & inflam,215,324,
+I97.2,Postmastectomy lymphoedema syndrome,215,324,
+I98.2,Oesoph varices wo bleed in dis cl/e,215,324,
+I98.3,Oesoph varices w bleeding in dis cl/e,215,324,
+J37.0,Chronic laryngitis,201,324,
+J37.1,Chronic laryngotracheitis,201,324,
+J41.0,Simple chronic bronchitis,215,324,
+J41.1,Mucopurulent chronic bronchitis,215,324,
+J41.8,Mx simple & mucopurulent chr bronchitis,215,324,
+J42,Unspecified chronic bronchitis,215,324,
+J43.0,MacLeod's syndrome,201,324,
+J43.1,Panlobular emphysema,201,324,
+J43.2,Centrilobular emphysema,201,324,
+J43.8,Other emphysema,201,324,
+J43.9,Emphysema unspecified,201,324,
+J44.0,COPD with acute lower resp infection,201,324,
+J44.1,COPD with acute exacerbation unspecified,201,324,
+J44.8,Other specified COPD,201,324,
+J44.9,COPD unspecified,215,324,
+J60,Coalworker's pneumoconiosis,215,324,
+J61,Pneumoconiosis dt asbestos & minrl fibre,215,324,
+J62.0,Pneumoconiosis due to talc dust,215,324,
+J62.8,Pneumoconiosis dt oth dust contn silica,215,324,
+J63.0,Aluminosis (of lung),215,324,
+J63.1,Bauxite fibrosis (of lung),215,324,
+J63.2,Berylliosis,215,324,
+J63.3,Graphite fibrosis (of lung),215,324,
+J63.4,Siderosis,215,324,
+J63.5,Stannosis,215,324,
+J63.8,Pneumoconiosis dt oth spec inorgnc dusts,215,324,
+J64,Unspecified pneumoconiosis,215,324,
+J65,Pneumoconiosis ass with tuberculosis,215,324,
+J66.0,Byssinosis,215,324,
+J66.1,Flax-dresser's disease,215,324,
+J66.2,Cannabinosis,215,324,
+J66.8,Airway disease dt oth spec organic dusts,215,324,
+J67.0,Farmer's lung,215,324,
+J67.1,Bagassosis,215,324,
+J67.2,Bird fancier's lung,215,324,
+J67.3,Suberosis,215,324,
+J67.4,Maltworker's lung,215,324,
+J67.5,Mushroom-worker's lung,215,324,
+J67.6,Maple-bark-stripper's lung,215,324,
+J67.7,Air-conditioner and humidifier lung,215,324,
+J67.8,Hypersens pneumonitis dt oth orgnc dust,215,324,
+J67.9,Hypersens pneumonitis dt unsp orgnc dust,215,324,
+J80,Acute respiratory distress syndrome,101,324,
+J84.0,Alveolar and parietoalveolar conditions,215,324,
+J84.1,Oth interstitial pulm dis w fibrosis,215,324,
+J84.8,Oth spec interstitial pulmonary diseases,215,324,
+J84.9,Interstitial pulmonary disease unsp,215,324,
+K00.0,Anodontia,201,324,
+K00.1,Supernumerary teeth,201,324,
+K00.2,Abnormalities of size and form of teeth,201,324,
+K00.3,Mottled teeth,201,324,
+K00.4,Disturbances in tooth formation,201,324,
+K00.5,Hereditary disturb tooth structure NEC,201,324,
+K00.6,Disturbances in tooth eruption,201,324,
+K00.7,Teething syndrome,201,324,
+K00.8,Other disorders of tooth development,201,324,
+K00.9,Disorder tooth development unsp,201,324,
+K01.0,Embedded teeth,201,324,
+K01.1,Impacted teeth,201,324,
+K02.0,Caries limited to enamel,201,324,
+K02.1,Caries of dentine,201,324,
+K02.2,Caries of cementum,201,324,
+K02.3,Arrested dental caries,201,324,
+K02.4,Odontoclasia,201,324,
+K02.8,Other dental caries,201,324,
+K02.9,Dental caries unspecified,201,324,
+K03.0,Excessive attrition of teeth,201,324,
+K03.1,Abrasion of teeth,201,324,
+K03.2,Erosion of teeth,201,324,
+K03.3,Pathological resorption of teeth,201,324,
+K03.4,Hypercementosis,201,324,
+K03.5,Ankylosis of teeth,201,324,
+K03.6,Deposits [accretions] on teeth,201,324,
+K03.7,Posterupt colour change dental hard tis,201,324,
+K03.8,Other spec disease hard tissues of teeth,201,324,
+K03.9,Disease hard tissues of teeth unsp,201,324,
+K04.0,Pulpitis,201,324,
+K04.1,Necrosis of pulp,201,324,
+K04.2,Pulp degeneration,201,324,
+K04.3,Abnormal hard tissue formation in pulp,201,324,
+K04.4,Acute apical periodontitis pulpal origin,201,324,
+K04.5,Chronic apical periodontitis,201,324,
+K04.6,Periapical abscess with sinus,201,324,
+K04.7,Periapical abscess without sinus,201,324,
+K04.8,Radicular cyst,201,324,
+K04.9,Other & unsp dis pulp & periapical tis,201,324,
+K05.0,Acute gingivitis,101,324,
+K05.1,Chronic gingivitis,101,324,
+K05.2,Acute periodontitis,101,324,
+K05.3,Chronic periodontitis,101,324,
+K05.4,Periodontosis,101,324,
+K05.5,Other periodontal diseases,101,324,
+K05.6,Periodontal disease unspecified,101,324,
+K06.0,Gingival recession,101,324,
+K06.1,Gingival enlargement,101,324,
+K06.2,Traum gingivl edentulous alv rdge lesion,101,324,
+K06.8,Oth spec disrd gingiva edentul alv rdge,101,324,
+K06.9,Disrd gingiva & edentulous alv rdge unsp,101,324,
+K07.00,Major anomaly of jaw size unspecified,201,324,
+K07.01,Hypoplasia of maxilla,201,324,
+K07.02,Hyperplasia of maxilla,201,324,
+K07.03,Hypoplasia of mandible,201,324,
+K07.04,Hyperplasia of mandible,201,324,
+K07.09,Other major anomalies of jaw size,201,324,
+K07.1,Anomalies jaw-cranial base relationship,201,324,
+K07.2,Anomalies of dental arch relationship,201,324,
+K07.3,Anomalies of tooth position,201,324,
+K07.4,Malocclusion unspecified,201,324,
+K07.5,Dentofacial functional abnormalities,201,324,
+K07.6,Temporomandibular joint disorders,201,324,
+K07.8,Other dentofacial anomalies,201,324,
+K07.9,Dentofacial anomaly unspecified,201,324,
+K08.0,Exfoliation teeth due to systemic causes,201,324,
+K08.1,Loss teeth dt acdt extr perid dis,201,324,
+K08.2,Atrophy of edentulous alveolar ridge,201,324,
+K08.3,Retained dental root,201,324,
+K08.81,Pathological fracture of tooth,201,324,
+K08.88,Oth spec disrd teeth & support structure,201,324,
+K08.9,Disorder teeth & support structure unsp,201,324,
+K22.0,Achalasia of cardia,201,324,
+K22.2,Oesophageal obstruction,201,324,
+K22.9,Disease of oesophagus unspecified,201,324,
+K25.0,Gastric ulcer acute with haemorrhage,215,324,
+K25.1,Gastric ulcer acute with perforation,215,324,
+K25.2,Acute gastric ulcer w haem & perforation,215,324,
+K25.3,Acute gastric ulcer without haem or perf,215,324,
+K25.4,Chronic or unsp gastric ulcer w haem,215,324,
+K25.5,Chronic or unsp gastric ulcer w perf,215,324,
+K25.6,Chr or unsp gastrc ulcer w haem & perf,215,324,
+K25.7,Chronic gastric ulcer wo haem or perf,215,324,
+K25.9,Gastrc ulcer ? ac / chr wo haem / perf,215,324,
+K26.0,Duodenal ulcer acute with haemorrhage,215,324,
+K26.1,Duodenal ulcer acute with perforation,215,324,
+K26.2,Acute duodenal ulcer w haem & perf,215,324,
+K26.3,Acute duodenal ulcer wo haem or perf,215,324,
+K26.4,Chronic or unsp duodenal ulcer w haem,215,324,
+K26.5,Chronic or unsp duodenal ulcer w perf,215,324,
+K26.6,Duodenal ulcer chr / unsp w haem & perf,215,324,
+K26.7,Chronic duodenal ulcer wo haem or perf,215,324,
+K26.9,Duodenal ulcer unsp wo haem or perf,215,324,
+K27.0,Peptic ulcer acute with haemorrhage,215,324,
+K27.1,Peptic ulcer acute with perforation,215,324,
+K27.2,Acute peptic ulcer with haem & perf,215,324,
+K27.3,Acute peptic ulcer without haem or perf,215,324,
+K27.4,Chronic or unsp peptic ulcer w haem,215,324,
+K27.5,Chronic or unsp peptic ulcer w perf,215,324,
+K27.6,Chr or unsp peptic ulcer w haem & perf,215,324,
+K27.7,Chronic peptic ulcer wo haem or perf,215,324,
+K27.9,Peptic ulcer ? ac / chr wo haem or perf,215,324,
+K28.0,Acute gastrojejunal ulcer w haemorrhage,215,324,
+K28.1,Acute gastrojejunal ulcer w perforation,215,324,
+K28.2,Acute gastrojejunal ulcer w haem & perf,215,324,
+K28.3,Acute gastrojejunal ulcer wo haem / perf,215,324,
+K28.4,Gastrojejunal ulcer chr or unsp w haem,215,324,
+K28.5,Gastrojejunal ulcer chr or unsp w perf,215,324,
+K28.6,Gastjejnl ulcer chr / unsp w haem & perf,215,324,
+K28.7,Gastrojejunal ulcer chr wo haem or perf,215,324,
+K28.9,Gastjejnl ulcr ? ac / chr wo haem / perf,215,324,
+K64.0,First degree haemorrhoids,215,324,
+K64.1,Second degree haemorrhoids,215,324,
+K64.2,Third degree haemorrhoids,215,324,
+K64.3,Fourth degree haemorrhoids,215,324,
+K64.4,Residual haemorrhoidal skin tags,215,324,
+K64.5,Perianal venous thrombosis,215,324,
+K64.8,Other specified haemorrhoids,215,324,
+K64.9,"Haemorrhoids, unspecified",215,324,
+K70.0,Alcoholic fatty liver,215,324,
+K70.1,Alcoholic hepatitis,215,324,
+K70.2,Alcoholic fibrosis & sclerosis of liver,215,324,
+K70.3,Alcoholic cirrhosis of liver,215,324,
+K70.4,Alcoholic hepatic failure,215,324,
+K70.9,Alcoholic liver disease unspecified,215,324,
+K73.0,Chronic persistent hepatitis NEC,201,324,
+K73.1,Chronic lobular hepatitis NEC,201,324,
+K73.2,Chronic active hepatitis NEC,201,324,
+K73.8,Other chronic hepatitis NEC,201,324,
+K73.9,Chronic hepatitis unspecified,201,324,
+K76.0,Fatty (change of) liver NEC,201,324,
+K80.00,Calculus gallb w ac cholecystitis wo obs,215,324,
+K80.01,Calculus gallb w ac cholecystitis w obs,215,324,
+K80.10,Calc gallb w oth cholecystitis wo obs,215,324,
+K80.11,Calc gallb w oth cholecystitis w obs,215,324,
+K80.20,Calc gallb wo cholecystitis wo obs,215,324,
+K80.21,Calc gallb wo cholecystitis with obs,215,324,
+K80.30,Calculus bile duct w cholangitis wo obs,215,324,
+K80.31,Calculus bile duct w cholangitis w obs,215,324,
+K80.40,Calc bile duct w cholecystitis wo obs,215,324,
+K80.41,Calc bile duct w cholecystitis w obs,215,324,
+K80.50,Calc bile dct wo cholang cholcys obs,215,324,
+K80.51,Calc bile dct wo cholang cholcys w obs,215,324,
+K80.80,Other cholelithiasis without obstruction,215,324,
+K80.81,Other cholelithiasis with obstruction,215,324,
+K81.0,Acute cholecystitis,215,324,
+K81.1,Chronic cholecystitis,215,324,
+K81.8,Other cholecystitis,215,324,
+K81.9,Cholecystitis unspecified,215,324,
+K82.0,Obstruction of gallbladder,215,324,
+K82.1,Hydrops of gallbladder,215,324,
+K82.2,Perforation of gallbladder,215,324,
+K82.3,Fistula of gallbladder,215,324,
+K82.4,Cholesterolosis of gallbladder,215,324,
+K82.8,Other specified diseases of gallbladder,215,324,
+K82.9,Disease of gallbladder unspecified,215,324,
+K83.0,Cholangitis,215,324,
+K83.1,Obstruction of bile duct,215,324,
+K83.2,Perforation of bile duct,215,324,
+K83.3,Fistula of bile duct,215,324,
+K83.4,Spasm of sphincter of Oddi,215,324,
+K83.5,Biliary cyst,215,324,
+K83.8,Other spec diseases biliary tract,215,324,
+K83.9,Disease of biliary tract unspecified,215,324,
+K85.0,Idiopathic acute pancreatitis,215,324,
+K85.1,Biliary acute pancreatitis,215,324,
+K85.2,Alcohol-induced acute pancreatitis,215,324,
+K85.3,Drug-induced acute pancreatitis,215,324,
+K85.8,Other acute pancreatitis,215,324,
+K85.9,"Acute pancreatitis, unspecified",215,324,
+K86.0,Alcohol-induced chronic pancreatitis,215,324,
+K86.1,Other chronic pancreatitis,215,324,
+K86.2,Cyst of pancreas,215,324,
+K86.3,Pseudocyst of pancreas,215,324,
+K86.8,Other specified diseases of pancreas,215,324,
+K86.9,Disease of pancreas unspecified,215,324,
+K87.0,Disrd gallb & biliary tract in dis cl/e,215,324,
+K87.1,Disrd pancreas in dis class elsewhere,215,324,
+K91.5,Postcholecystectomy syndrome,215,324,
+K92.1,Melaena,101,324,
+L21.1,Seborrhoeic infantile dermatitis,0,219,
+M02.30,Arthrpthy foll GU infectn multiple sites,215,324,
+M02.31,Arthrpthy foll GU infectn shold region,215,324,
+M02.32,Arthrpthy foll GU infectn upper arm,215,324,
+M02.33,Arthropathy foll GU infectn forearm,215,324,
+M02.34,Arthropathy following GU infection hand,215,324,
+M02.35,Arthrpthy foll GU infectn pelv reg thigh,215,324,
+M02.36,Arthropathy foll GU infectn lower leg,215,324,
+M02.37,Arthrpthy foll GU infectn ankle and foot,215,324,
+M02.38,Arthropathy following GU infection other,215,324,
+M02.39,Arthropathy foll GU infection site unsp,215,324,
+M05.10,Rheumatoid lung disease multiple sites,215,324,
+M05.11,Rheumatoid lung disease shoulder region,215,324,
+M05.12,Rheumatoid lung disease upper arm,215,324,
+M05.13,Rheumatoid lung disease forearm,215,324,
+M05.14,Rheumatoid lung disease hand,215,324,
+M05.15,Rheumatoid lung dis pelvic region thigh,215,324,
+M05.16,Rheumatoid lung disease lower leg,215,324,
+M05.17,Rheumatoid lung disease ankle and foot,215,324,
+M05.18,Rheumatoid lung disease other,215,324,
+M05.19,Rheumatoid lung disease site unsp,215,324,
+M05.20,Rheumatoid vasculitis multiple sites,215,324,
+M05.21,Rheumatoid vasculitis shoulder region,215,324,
+M05.22,Rheumatoid vasculitis upper arm,215,324,
+M05.23,Rheumatoid vasculitis forearm,215,324,
+M05.24,Rheumatoid vasculitis hand,215,324,
+M05.25,Rheumatoid vasculitis pelvic region thgh,215,324,
+M05.26,Rheumatoid vasculitis lower leg,215,324,
+M05.27,Rheumatoid vasculitis ankle and foot,215,324,
+M05.28,Rheumatoid vasculitis other,215,324,
+M05.29,Rheumatoid vasculitis site unspecified,215,324,
+M05.30,Rheum arthr inv oth org & sys mult sites,215,324,
+M05.31,Rheum arthr inv oth organ & sys shoulder,215,324,
+M05.32,Rheum arthr inv oth org & sys upper arm,215,324,
+M05.33,Rheum arthr inv oth organs & sys forearm,215,324,
+M05.34,Rheum arthr inv oth organs & system hand,215,324,
+M05.35,Rheum arthr inv oth org & sys pelv thigh,215,324,
+M05.36,Rheum arthr inv oth organs & sys low leg,215,324,
+M05.37,Rheum arthr inv oth org & sys ankle foot,215,324,
+M05.38,Rheum arthr inv oth organ & system other,215,324,
+M05.39,Rheum arthr inv oth org & sys site unsp,215,324,
+M05.80,Oth seropos rheum arthritis mult sites,215,324,
+M05.81,Oth seropos rheum arthritis shoulder,215,324,
+M05.82,Oth seropos rheum arthritis upper arm,215,324,
+M05.83,Oth seropos rheum arthritis forearm,215,324,
+M05.84,Other seropositive rheum arthritis hand,215,324,
+M05.85,Oth seropos rheum arthr pelv rgn & thgh,215,324,
+M05.86,Oth seropos rheum arthritis lower leg,215,324,
+M05.87,Oth seropos rheum arthritis ankle foot,215,324,
+M05.88,Oth seropositive rheum arthritis other,215,324,
+M05.89,Oth seropos rheum arthritis site unsp,215,324,
+M05.90,Seropositive rheum arthr unsp mult sites,215,324,
+M05.91,Seropositive rheum arthr unsp shoulder,215,324,
+M05.92,Seropositive rheum arthr unsp upper arm,215,324,
+M05.93,Seropositive rheum arthr unsp forearm,215,324,
+M05.94,Seropositive rheum arthritis unsp hand,215,324,
+M05.95,Seropositive rheum arthr unsp pelv thigh,215,324,
+M05.96,Seropositive rheum arthr unsp low leg,215,324,
+M05.97,Seropositive rheum arthr unsp ankle foot,215,324,
+M05.98,Seropositive rheum arthritis unsp other,215,324,
+M05.99,Seropositive rheum arthr unsp unsp site,215,324,
+M06.00,Seronegative rheum arthritis mult sites,215,324,
+M06.01,Seronegative rheum arthritis shoulder,215,324,
+M06.02,Seronegative rheum arthritis upper arm,215,324,
+M06.03,Seronegative rheum arthritis forearm,215,324,
+M06.04,Seronegative rheumatoid arthritis hand,215,324,
+M06.05,Seronegative rheum arthr pelv rgn & thgh,215,324,
+M06.06,Seronegative rheum arthritis low leg,215,324,
+M06.07,Seronegative rheum arthritis ankle foot,215,324,
+M06.08,Seronegative rheumatoid arthritis other,215,324,
+M06.09,Seronegative rheum arthritis site unsp,215,324,
+M06.10,Adult-onset Still's disease mult sites,215,324,
+M06.11,Adult-onset Still's disease shoulder,215,324,
+M06.12,Adult-onset Still's disease upper arm,215,324,
+M06.13,Adult-onset Still's disease arm,215,324,
+M06.14,Adult-onset Still's disease hand,215,324,
+M06.15,Adult-onset Still's dis pelv rgn & thgh,215,324,
+M06.16,Adult-onset Still's disease lower leg,215,324,
+M06.17,Adult-onset Still's disease ankle & foot,215,324,
+M06.18,Adult-onset Still's disease other,215,324,
+M06.19,Adult-onset Still's disease site unsp,215,324,
+M06.80,Oth spec rheumatoid arthritis mult sites,215,324,
+M06.81,Oth spec rheumatoid arthritis shoulder,215,324,
+M06.82,Oth spec rheumatoid arthritis upper arm,215,324,
+M06.83,Oth spec rheumatoid arthritis forearm,215,324,
+M06.84,Oth spec rheumatoid arthritis hand,215,324,
+M06.85,Oth spec rheumatoid arthritis pelv thigh,215,324,
+M06.86,Oth spec rheumatoid arthritis lower leg,215,324,
+M06.87,Oth spec rheumatoid arthritis ankle foot,215,324,
+M06.88,Oth spec rheumatoid arthritis other,215,324,
+M06.89,Oth spec rheumatoid arthritis site unsp,215,324,
+M06.90,Rheumatoid arthritis unsp multiple sites,215,324,
+M06.91,Rheumatoid arthritis unsp shoulder,215,324,
+M06.92,Rheumatoid arthritis unsp upper arm,215,324,
+M06.93,Rheumatoid arthritis unsp forearm,215,324,
+M06.94,Rheumatoid arthritis unsp hand,215,324,
+M06.95,Rheumatoid arthr unsp pelv rgn & thgh,215,324,
+M06.96,Rheumatoid arthritis unsp lower leg,215,324,
+M06.97,Rheumatoid arthritis unsp ankle foot,215,324,
+M06.98,Rheumatoid arthritis unsp other,215,324,
+M06.99,Rheumatoid arthritis unsp unsp site,215,324,
+M07.00,Distal IPJ psoriatic arthropathy mult,215,324,
+M07.04,Distal IPJ psoriatic arthropathy hand,215,324,
+M07.07,Distal IPJ psoriatic arthropathy foot,215,324,
+M07.09,Distal IPJ psoriatic arthrpthy sit unsp,215,324,
+M07.10,Arthritis mutilans mult sites (L40.5+),215,324,
+M07.11,Arthritis mutilans shoulder (L40.5+),215,324,
+M07.12,Arthritis mutilans upper arm (L40.5+),215,324,
+M07.13,Arthritis mutilans forearm (L40.5+),215,324,
+M07.14,Arthritis mutilans hand (L40.5+),215,324,
+M07.15,Arthr mutilans pelv rgn & thgh (L40.5+),215,324,
+M07.16,Arthritis mutilans lower leg (L40.5+),215,324,
+M07.17,Arthritis mutilans ankle foot (L40.5+),215,324,
+M07.18,Arthritis mutilans other (L40.5+),215,324,
+M07.19,Arthritis mutilans site unsp (L40.5+),215,324,
+M07.2,Psoriatic spondylitis (L40.5+),215,324,
+M07.30,Oth psor arthropathy mult sites (L40.5+),215,324,
+M07.31,Oth psor arthropathy shoulder (L40.5+),215,324,
+M07.32,Oth psor arthropathy upper arm (L40.5+),215,324,
+M07.33,Oth psor arthropathy forearm (L40.5+),215,324,
+M07.34,Oth psor arthropathy hand (L40.5+),215,324,
+M07.35,Oth psor arthropathy pelv thigh (L40.5+),215,324,
+M07.36,Oth psor arthropathy lower leg (L40.5+),215,324,
+M07.37,Oth psor arthropathy ankle foot (L40.5+),215,324,
+M07.38,Oth psor arthropathy other (L40.5+),215,324,
+M07.39,Oth psor arthropathy site unsp (L40.5+),215,324,
+M07.40,Arthrpthy in Crohn's dis mult site,215,324,
+M07.41,Arthrpthy in Crohn's dis shoulder K50.-+,215,324,
+M07.42,Arthrpthy in Crohn's dis upp arm K50.-+,215,324,
+M07.43,Arthrpthy in Crohn's dis forearm,215,324,
+M07.44,Arthrpthy in Crohn's dis hand (K50.-+),215,324,
+M07.45,Arthrpthy in Crohn's dis pelvis (K50.-+),215,324,
+M07.46,Arthrpthy in Crohn's dis low leg,215,324,
+M07.47,Arthrpthy in Crohn's dis ankle (K50.-+),215,324,
+M07.48,Arthrpthy in Crohn's dis other (K50.-+),215,324,
+M07.49,Arthrpthy in Crohn's dis site unsp,215,324,
+M07.50,Arthrpthy in ulcrtve colitis mult site,215,324,
+M07.51,Arthrpthy in ulcrtve colitis shoulder,215,324,
+M07.52,Arthrpthy in ulcrtve colitis upper arm,215,324,
+M07.53,Arthrpthy in ulcrtve colitis forearm,215,324,
+M07.54,Arthrpthy in ulcrtve colitis hand K51.-+,215,324,
+M07.55,Arthrpthy in ulcrtve colitis pelv thigh,215,324,
+M07.56,Arthrpthy in ulcrtve colitis lower leg,215,324,
+M07.57,Arthrpthy in ulcrtve colitis ankle foot,215,324,
+M07.58,Arthrpthy in ulcrtve colitis other,215,324,
+M07.59,Arthrpthy in ulcrtve colitis site unsp,215,324,
+M07.60,Oth enteropathic arthropathies mult site,215,324,
+M07.61,Oth enteropathic arthropathies shoulder,215,324,
+M07.62,Oth enteropathic arthropathies upper arm,215,324,
+M07.63,Oth enteropathic arthropathies forearm,215,324,
+M07.64,Oth enteropathic arthropathies hand,215,324,
+M07.65,Oth enteropathic arthrpthy pelv rgn thgh,215,324,
+M07.66,Oth enteropathic arthropathies lower leg,215,324,
+M07.67,Oth enteropathic arthropathy ankle foot,215,324,
+M07.68,Oth enteropathic arthropathies other,215,324,
+M07.69,Oth enteropathic arthropathies site unsp,215,324,
+M08.00,Juvenile rheumatoid arthritis mult sites,0,219,
+M08.01,Juvenile rheumatoid arthritis shoulder,0,219,
+M08.02,Juvenile rheumatoid arthritis upper arm,0,219,
+M08.03,Juvenile rheumatoid arthritis forearm,0,219,
+M08.04,Juvenile rheumatoid arthritis hand,0,219,
+M08.05,Juvenile rheum arthritis pelv rgn & thgh,0,219,
+M08.06,Juvenile rheumatoid arthritis lower leg,0,219,
+M08.07,Juvenile rheum arthritis ankle foot,0,219,
+M08.08,Juvenile rheumatoid arthritis other,0,219,
+M08.09,Juvenile rheumatoid arthritis site unsp,0,219,
+M08.10,Juvnle ankylosing spondylitis mult sites,0,219,
+M08.11,Juvnle ankylosing spondylitis shoulder,0,219,
+M08.12,Juvnle ankylosing spondylitis upper arm,0,219,
+M08.13,Juvnle ankylosing spondylitis forearm,0,219,
+M08.14,Juvenile ankylosing spondylitis hand,0,219,
+M08.15,Juvnle ankylosing spondylitis pelv thigh,0,219,
+M08.16,Juvenile ankylosing spondylitis low leg,0,219,
+M08.17,Juvnle ankylosing spondylitis ankle foot,0,219,
+M08.18,Juvenile ankylosing spondylitis other,0,219,
+M08.19,Juvnle ankylosing spondylitis site unsp,0,219,
+M08.20,Juvnle arthritis w systc onset mult site,0,219,
+M08.21,Juvnle arthritis w systc onset shoulder,0,219,
+M08.22,Juvnle arthritis w systc onset upper arm,0,219,
+M08.23,Juvenile arthritis w systc onset forearm,0,219,
+M08.24,Juvenile arthritis w systemic onset hand,0,219,
+M08.25,Juvnle arthr w systc onset pelv rgn thgh,0,219,
+M08.26,Juvenile arthritis w systc onset low leg,0,219,
+M08.27,Juvnle arthr w systc onset ankle foot,0,219,
+M08.28,Juvenile arthritis w systc onset other,0,219,
+M08.29,Juvnle arthritis w systc onset site unsp,0,219,
+M08.3,Juvenile polyarthritis (seronegative),0,219,
+M08.40,Pauciartclr juvnle arthritis mult sites,0,219,
+M08.41,Pauciarticular juvnle arthritis shoulder,0,219,
+M08.42,Pauciarticular juvnle arthritis upp arm,0,219,
+M08.43,Pauciarticular juvnle arthritis forearm,0,219,
+M08.44,Pauciarticular juvenile arthritis hand,0,219,
+M08.45,Pauciartclr juvnle arthr pelv rgn & thgh,0,219,
+M08.46,Pauciarticular juvnle arthritis low leg,0,219,
+M08.47,Pauciarticular juvnle arthritis ankle ft,0,219,
+M08.48,Pauciarticular juvenile arthritis other,0,219,
+M08.49,Pauciartclr juvenile arthritis site unsp,0,219,
+M08.80,Other juvenile arthritis multiple sites,0,219,
+M08.81,Other juvenile arthritis shoulder,0,219,
+M08.82,Other juvenile arthritis upper arm,0,219,
+M08.83,Other juvenile arthritis forearm,0,219,
+M08.84,Other juvenile arthritis hand,0,219,
+M08.85,Other juvenile arthritis pelv rgn & thgh,0,219,
+M08.86,Other juvenile arthritis lower leg,0,219,
+M08.87,Other juvenile arthritis ankle and foot,0,219,
+M08.88,Other juvenile arthritis other,0,219,
+M08.89,Other juvenile arthritis site unsp,0,219,
+M08.90,Juvenile arthritis unsp multiple sites,0,219,
+M08.91,Juvenile arthritis unsp shoulder,0,219,
+M08.92,Juvenile arthritis unsp upper arm,0,219,
+M08.93,Juvenile arthritis unspecified forearm,0,219,
+M08.94,Juvenile arthritis unspecified hand,0,219,
+M08.95,Juvenile arthritis unsp pelv rgn & thgh,0,219,
+M08.96,Juvenile arthritis unsp lower leg,0,219,
+M08.97,Juvenile arthritis unsp ankle foot,0,219,
+M08.98,Juvenile arthritis unspecified other,0,219,
+M08.99,Juvenile arthritis unsp site unspecified,0,219,
+M09.00,Juvnle arthritis in psoriasis mult sites,0,219,
+M09.01,Juvnle arthritis in psoriasis shoulder,0,219,
+M09.02,Juvnle arthritis in psoriasis upper arm,0,219,
+M09.03,Juvnle arthritis in psoriasis forearm,0,219,
+M09.04,Juvnle arthritis in psoriasis hand,0,219,
+M09.05,Juvnle arthritis in psoriasis pelv thigh,0,219,
+M09.06,Juvnle arthritis in psoriasis low leg,0,219,
+M09.07,Juvnle arthritis in psoriasis ankle foot,0,219,
+M09.08,Juvnle arthritis in psoriasis other,0,219,
+M09.09,Juvnle arthritis in psoriasis site unsp,0,219,
+M09.10,Juvnle arthr in Crohn's dis mult site,0,219,
+M09.11,Juvnle arthritis in Crohn's dis shoulder,0,219,
+M09.12,Juvnle arthr in Crohn's dis upper arm,0,219,
+M09.13,Juvnle arthritis in Crohn's dis forearm,0,219,
+M09.14,Juvnle arthritis in Crohn's dis hand,0,219,
+M09.15,Juvnle arthr in Crohn's dis pelv thgh,0,219,
+M09.16,Juvnle arthritis in Crohn's dis low leg,0,219,
+M09.17,Juvnle arthritis in Crohn's dis ankle ft,0,219,
+M09.18,Juvnle arthritis in Crohn's dis other,0,219,
+M09.19,Juvnle arthr in Crohn's dis site unsp,0,219,
+M09.20,Juvnle arthr in ulcrtve colitis mult sit,0,219,
+M09.21,Juvnle arthr in ulcrtve colitis shoulder,0,219,
+M09.22,Juvnle arthr ulcrtve colitis upper arm,0,219,
+M09.23,Juvnle arthr in ulcrtve colitis forearm,0,219,
+M09.24,Juvnle arthritis in ulcrtve colitis hand,0,219,
+M09.25,Juvnle arthr ulcrtve colit pelv rgn thgh,0,219,
+M09.26,Juvnle arthr in ulcrtve colitis low leg,0,219,
+M09.27,Juvnle arthr ulcrtve colitis ankle foot,0,219,
+M09.28,Juvnle arthr in ulcrtve colitis other,0,219,
+M09.29,Juvnle arthr in ulcrtve colit site unsp,0,219,
+M14.0,Gouty arthropathy dt enzyme defect,215,324,
+M15.0,Primary generalised (osteo)arthrosis,215,324,
+M15.1,Heberden's nodes (with arthropathy),215,324,
+M15.2,Bouchard's nodes (with arthropathy),215,324,
+M15.3,Secondary multiple arthrosis,215,324,
+M15.4,Erosive (osteo)arthrosis,215,324,
+M15.8,Other polyarthrosis,215,324,
+M30.0,Polyarteritis nodosa,215,324,
+M30.2,Juvenile polyarteritis,0,219,
+M31.5,Giant cell arteritis w polymyalgia rheum,215,324,
+M31.7,Microscopic polyangiitis,215,324,
+M33.0,Juvenile dermatomyositis,0,219,
+M33.1,Other dermatomyositis,215,324,
+M35.3,Polymyalgia rheumatica,215,324,
+M41.10,Juvnle idiopath scoliosis mult sit spine,0,219,
+M41.11,Juvnle idiopath scoliosis ocpt-atlnt-axl,0,219,
+M41.12,Juvnle idiopath scoliosis cervical rgn,0,219,
+M41.13,Juvnle idiopath scoliosis cervicothorax,0,219,
+M41.14,Juvnle idiopath scoliosis thoracic rgn,0,219,
+M41.15,Juvnle idiopath scoliosis thoracolumbar,0,219,
+M41.16,Juvenile idiopath scoliosis lumbar rgn,0,219,
+M41.17,Juvnle idiopath scoliosis lumbosacral,0,219,
+M41.18,Juvnle idiopath sclios sacr sacrcocygl,0,219,
+M41.19,Juvenile idiopathic scoliosis site unsp,0,219,
+M42.00,Juvnle osteochondr spine mult site spine,0,219,
+M42.01,Juvnle osteochondr spine ocpt-atlnt-axl,0,219,
+M42.02,Juvnle osteochondr spine cervical rgn,0,219,
+M42.03,Juvnle osteochondr spine cervicothoracic,0,219,
+M42.04,Juvnle osteochondr spine thoracic rgn,0,219,
+M42.05,Juvnle osteochondr spine thoracolumbar,0,219,
+M42.06,Juvnle osteochondr spine lumbar region,0,219,
+M42.07,Juvnle osteochondr spine lumbosacral,0,219,
+M42.08,Juvnle osteochondr spine sacr sacrcocygl,0,219,
+M42.09,Juvenile osteochondrosis spine site unsp,0,219,
+M42.10,Adult osteochondr spine mult site spine,215,324,
+M42.11,Adult osteochondr spine ocpt-atlnt-axl,215,324,
+M42.12,Adult osteochondr spine cervical region,215,324,
+M42.13,Adult osteochondr spine cervicothoracic,215,324,
+M42.14,Adult osteochondr spine thoracic region,215,324,
+M42.15,Adult osteochondr spine thoracolumbar,215,324,
+M42.16,Adult osteochondr spine lumbar region,215,324,
+M42.17,Adult osteochondr spine lumbosacral rgn,215,324,
+M42.18,Adlt osteochondr spin sacr & sacrcocygl,215,324,
+M42.19,Adult osteochondrosis spine site unsp,215,324,
+M45.00,Ankylosing spondylitis mult sites spine,215,324,
+M45.01,Ankylosing spondylitis ocpt-atlnt-axl,215,324,
+M45.02,"Ankylosing spondylitis, cervical region",215,324,
+M45.03,Ankylosing spondylitis cervicothoracic,215,324,
+M45.04,Ankylosing spondylitis thoracic region,215,324,
+M45.05,Ankylosing spondylitis thoracolumbar,215,324,
+M45.06,Ankylosing spondylitis lumbar region,215,324,
+M45.07,Ankylosing spondylitis lumbosacral rgn,215,324,
+M45.08,Ankylosing spondylitis sacr & sacrcocygl,215,324,
+M45.09,Ankylosing spondylitis site unspecified,215,324,
+M48.00,Spinal stenosis multiple sites in spine,215,324,
+M48.01,Spinal stenosis occipito-atlanto-axial,215,324,
+M48.02,Spinal stenosis cervical region,215,324,
+M48.03,Spinal stenosis cervicothoracic region,215,324,
+M48.04,Spinal stenosis thoracic region,215,324,
+M48.05,Spinal stenosis thoracolumbar region,215,324,
+M48.06,Spinal stenosis lumbar region,215,324,
+M48.07,Spinal stenosis lumbosacral region,215,324,
+M48.08,Spinal stenosis sacral & sacrococcygeal,215,324,
+M48.09,Spinal stenosis site unspecified,215,324,
+M50.1,Cervical disc disorder w radiculopathy,215,324,
+M50.2,Other cervical disc displacement,215,324,
+M50.3,Other cervical disc degeneration,215,324,
+M50.8,Other cervical disc disorders,215,324,
+M50.9,Cervical disc disorder unspecified,215,324,
+M51.0,Lumbar & oth I/V disc disrd w myelopathy,215,324,
+M51.1,Lumbar & oth I/V disc disrd w radiclpth,215,324,
+M51.2,Oth spec intervertebral disc displacemnt,215,324,
+M51.3,Oth spec intervertebral disc degen,215,324,
+M51.4,Schmorl's nodes,215,324,
+M51.8,Oth spec intervertebral disc disorders,215,324,
+M51.9,Intervertebral disc disorder unsp,215,324,
+M72.0,Palmar fascial fibromatosis [Dupuytren],215,324,
+M75.0,Adhesive capsulitis of shoulder,215,324,
+M75.1,Rotator cuff syndrome,215,324,
+M75.3,Calcific tendinitis of shoulder,215,324,
+M75.4,Impingement syndrome of shoulder,215,324,
+M80.00,Postmenp osteoporosis path fx mult site,230,324,FEML
+M80.01,Postmenp osteoporosis w path fx shoulder,230,324,FEML
+M80.02,Postmenp osteoporosis w path fx upp arm,230,324,FEML
+M80.03,Postmenp osteoporosis w path fx forearm,230,324,FEML
+M80.04,Postmenp osteoporosis w path fx hand,230,324,FEML
+M80.05,Postmenp osteoporosis path fx pelv thgh,230,324,FEML
+M80.06,Postmenp osteoporosis w path fx low leg,230,324,FEML
+M80.07,Postmenp osteoporosis w path fx ankle ft,230,324,FEML
+M80.08,Postmenp osteoporosis w path fx other,230,324,FEML
+M80.09,Postmenp osteopor w path fx site unsp,230,324,FEML
+M80.10,Postoophct osteopor w path fx mult site,215,324,FEML
+M80.11,Postoophct osteopor path fx shoulder,215,324,FEML
+M80.12,Postoophct osteopor w path fx upp arm,215,324,FEML
+M80.13,Postoophct osteopor w path fx forearm,215,324,FEML
+M80.14,Postoophct osteopor w path fx hand,215,324,FEML
+M80.15,Postoophct osteopor path fx pelv thgh,215,324,FEML
+M80.16,Postoophct osteopor w path fx low leg,215,324,FEML
+M80.17,Postoophct osteopor path fx ankle ft,215,324,FEML
+M80.18,Postoophct osteopor w path fx other,215,324,FEML
+M80.19,Postoophct osteopor path fx site unsp,215,324,FEML
+M80.50,Idiopath osteoporosis path fx mult site,215,324,
+M80.51,Idiopath osteoporosis w path fx shoulder,215,324,
+M80.52,Idiopath osteoporosis w path fx upp arm,215,324,
+M80.53,Idiopath osteoporosis w path fx forearm,215,324,
+M80.54,Idiopathic osteoporosis w path fx hand,215,324,
+M80.55,Idiopath osteoporosis path fx pelv thgh,215,324,
+M80.56,Idiopath osteoporosis w path fx low leg,215,324,
+M80.57,Idiopath osteoporosis w path fx ankle ft,215,324,
+M80.58,Idiopathic osteoporosis w path fx other,215,324,
+M80.59,Idiopath osteopor w path fx site unsp,215,324,
+M81.00,Postmenopausal osteoporosis mult sites,230,324,FEML
+M81.01,Postmenopausal osteoporosis shoulder,230,324,FEML
+M81.02,Postmenopausal osteoporosis upper arm,230,324,FEML
+M81.03,Postmenopausal osteoporosis forearm,230,324,FEML
+M81.04,Postmenopausal osteoporosis hand,230,324,FEML
+M81.05,Postmenopausal osteopor pelv rgn & thgh,230,324,FEML
+M81.06,Postmenopausal osteoporosis lower leg,230,324,FEML
+M81.07,Postmenopausal osteoporosis ankle foot,230,324,FEML
+M81.08,Postmenopausal osteoporosis other,230,324,FEML
+M81.09,Postmenopausal osteoporosis site unsp,230,324,FEML
+M81.10,Postoophorectomy osteoporosis mult site,215,324,FEML
+M81.11,Postoophorectomy osteoporosis shoulder,215,324,FEML
+M81.12,Postoophorectomy osteoporosis upper arm,215,324,FEML
+M81.13,Postoophorectomy osteoporosis forearm,215,324,FEML
+M81.14,Postoophorectomy osteoporosis hand,215,324,FEML
+M81.15,Postoophorectomy osteoporosis pelv thgh,215,324,FEML
+M81.16,Postoophorectomy osteoporosis lower leg,215,324,FEML
+M81.17,Postoophorectomy osteoporosis ankle ft,215,324,FEML
+M81.18,Postoophorectomy osteoporosis other,215,324,FEML
+M81.19,Postoophorectomy osteoporosis site unsp,215,324,FEML
+M81.50,Idiopathic osteoporosis multiple sites,215,324,
+M81.51,Idiopathic osteoporosis shoulder region,215,324,
+M81.52,Idiopathic osteoporosis upper arm,215,324,
+M81.53,Idiopathic osteoporosis forearm,215,324,
+M81.54,Idiopathic osteoporosis hand,215,324,
+M81.55,Idiopathic osteoporosis pelv rgn & thgh,215,324,
+M81.56,Idiopathic osteoporosis lower leg,215,324,
+M81.57,Idiopathic osteoporosis ankle and foot,215,324,
+M81.58,Idiopathic osteoporosis other,215,324,
+M81.59,Idiopathic osteoporosis site unsp,215,324,
+M83.00,Puerperal osteomalacia multiple sites,210,260,FEML
+M83.01,Puerperal osteomalacia shoulder region,210,260,FEML
+M83.02,Puerperal osteomalacia upper arm,210,260,FEML
+M83.03,Puerperal osteomalacia forearm,210,260,FEML
+M83.04,Puerperal osteomalacia hand,210,260,FEML
+M83.05,Puerperal osteomalacia pelv rgn & thgh,210,260,FEML
+M83.06,Puerperal osteomalacia lower leg,210,260,FEML
+M83.07,Puerperal osteomalacia ankle & foot,210,260,FEML
+M83.08,Puerperal osteomalacia other,210,260,FEML
+M83.09,Puerperal osteomalacia site unspecified,210,260,FEML
+M83.10,Senile osteomalacia multiple sites,230,324,
+M83.11,Senile osteomalacia shoulder region,230,324,
+M83.12,Senile osteomalacia upper arm,230,324,
+M83.13,Senile osteomalacia forearm,230,324,
+M83.14,Senile osteomalacia hand,230,324,
+M83.15,Senile osteomalacia pelv rgn & thgh,230,324,
+M83.16,Senile osteomalacia lower leg,230,324,
+M83.17,Senile osteomalacia ankle and foot,230,324,
+M83.18,Senile osteomalacia other,230,324,
+M83.19,Senile osteomalacia site unspecified,230,324,
+M83.20,Adult osteomalacia dt malabs mult sites,215,324,
+M83.21,Adult osteomalacia dt malabs shoulder,215,324,
+M83.22,Adult osteomalacia dt malabs upper arm,215,324,
+M83.23,Adult osteomalacia dt malabs forearm,215,324,
+M83.24,Adult osteomalacia dt malabs hand,215,324,
+M83.25,Adult osteomalacia dt malabs pelv thgh,215,324,
+M83.26,Adult osteomalacia dt malabs lower leg,215,324,
+M83.27,Adult osteomalacia dt malabs ankle foot,215,324,
+M83.28,Adult osteomalacia dt malabs other,215,324,
+M83.29,Adult osteomalacia dt malabs site unsp,215,324,
+M83.30,Adult osteomalacia dt maln mult sites,215,324,
+M83.31,Adult osteomalacia dt maln shoulder,215,324,
+M83.32,Adult osteomalacia dt maln upper arm,215,324,
+M83.33,Adult osteomalacia dt maln forearm,215,324,
+M83.34,Adult osteomalacia dt malnutrition hand,215,324,
+M83.35,Adlt osteomalacia dt maln pelv rgn thgh,215,324,
+M83.36,Adult osteomalacia dt maln lower leg,215,324,
+M83.37,Adult osteomalacia dt maln ankle & foot,215,324,
+M83.38,Adult osteomalacia dt malnutrition other,215,324,
+M83.39,Adult osteomalacia dt maln site unsp,215,324,
+M83.40,Aluminium bone disease multiple sites,215,324,
+M83.41,Aluminium bone disease shoulder region,215,324,
+M83.42,Aluminium bone disease upper arm,215,324,
+M83.43,Aluminium bone disease forearm,215,324,
+M83.44,Aluminium bone disease hand,215,324,
+M83.45,Aluminium bone disease pelv rgn & thgh,215,324,
+M83.46,Aluminium bone disease lower leg,215,324,
+M83.47,Aluminium bone disease ankle and foot,215,324,
+M83.48,Aluminium bone disease other,215,324,
+M83.49,Aluminium bone disease site unspecified,215,324,
+M83.50,Oth drug-ind osteomal in adults mult sit,215,324,
+M83.51,Oth drug-ind osteomal in adults shold,215,324,
+M83.52,Oth drug-ind osteomal in adults upp arm,215,324,
+M83.53,Oth drug-ind osteomal in adults forearm,215,324,
+M83.54,Oth drug-ind osteomal in adults hand,215,324,
+M83.55,Oth drug-ind osteomal adults pelv thgh,215,324,
+M83.56,Oth drug-ind osteomal in adults low leg,215,324,
+M83.57,Oth drug-ind osteomal in adults ank & ft,215,324,
+M83.58,Oth drug-ind osteomal in adults other,215,324,
+M83.59,Oth drug-ind osteomal in adlt site unsp,215,324,
+M83.80,Other adult osteomalacia multiple sites,215,324,
+M83.81,Other adult osteomalacia shoulder,215,324,
+M83.82,Other adult osteomalacia upper arm,215,324,
+M83.83,Other adult osteomalacia forearm,215,324,
+M83.84,Other adult osteomalacia hand,215,324,
+M83.85,Other adult osteomalacia pelv rgn & thgh,215,324,
+M83.86,Other adult osteomalacia lower leg,215,324,
+M83.87,Other adult osteomalacia ankle and foot,215,324,
+M83.88,Other adult osteomalacia other,215,324,
+M83.89,Other adult osteomalacia site unsp,215,324,
+M83.90,Unsp adult osteomalacia multiple sites,215,324,
+M83.91,Unsp adult osteomalacia shoulder region,215,324,
+M83.92,Unsp adult osteomalacia upper arm,215,324,
+M83.93,Unsp adult osteomalacia forearm,215,324,
+M83.94,Unspecified adult osteomalacia hand,215,324,
+M83.95,Unsp adult osteomalacia pelv rgn & thgh,215,324,
+M83.96,Unsp adult osteomalacia lower leg,215,324,
+M83.97,Unsp adult osteomalacia ankle & foot,215,324,
+M83.98,Unspecified adult osteomalacia other,215,324,
+M83.99,Unsp adult osteomalacia site unspecified,215,324,
+M88.0,Paget's disease of skull,215,324,
+M88.80,Paget's disease other bones mult sites,215,324,
+M88.81,Paget's disease of other bones shoulder,215,324,
+M88.82,Paget's disease of other bones upp arm,215,324,
+M88.83,Paget's disease of other bones forearm,215,324,
+M88.84,Paget's disease of other bones hand,215,324,
+M88.85,Paget's disease other bones pelv thigh,215,324,
+M88.86,Paget's disease of other bones low leg,215,324,
+M88.87,Paget's disease of other bones ankle ft,215,324,
+M88.88,Paget's disease of other bones other,215,324,
+M89.10,Epiphyseal arrest multiple sites,0,219,
+M89.11,Epiphyseal arrest shoulder region,0,219,
+M89.12,Epiphyseal arrest upper arm,0,219,
+M89.13,Epiphyseal arrest forearm,0,219,
+M89.14,Epiphyseal arrest hand,0,219,
+M89.15,Epiphyseal arrest pelv rgn & thgh,0,219,
+M89.16,Epiphyseal arrest lower leg,0,219,
+M89.17,Epiphyseal arrest ankle and foot,0,219,
+M89.18,Epiphyseal arrest other,0,219,
+M89.19,Epiphyseal arrest site unspecified,0,219,
+M89.20,Oth disrd bone devt & growth mult sites,0,219,
+M89.21,Oth disrd bone devt & growth shoulder,0,219,
+M89.22,Oth disrd bone devt & growth upper arm,0,219,
+M89.23,Oth disrd bone devt & growth forearm,0,219,
+M89.24,Oth disrd bone devt & growth hand,0,219,
+M89.25,Oth disrd bne devt growth pelv rgn thgh,0,219,
+M89.26,Oth disrd bone devt & growth low leg,0,219,
+M89.27,Oth disrd bone devt & growth ankle foot,0,219,
+M89.28,Oth disrd bone devt & growth other,0,219,
+M89.29,Oth disrd bone devt & growth site unsp,0,219,
+M91.0,Juvenile osteochondrosis of pelvis,0,219,
+M91.1,Juvenile osteochondrosis head of femur,0,219,
+M91.2,Coxa plana,0,219,
+M91.3,Pseudocoxalgia,0,219,
+M91.8,Other juvnle osteochondrosis hip pelvis,0,219,
+M91.9,Juvnle osteochondrosis hip & pelvis unsp,0,219,
+M92.0,Juvenile osteochondrosis of humerus,0,219,
+M92.1,Juvenile osteochondrosis radius & ulna,0,219,
+M92.2,Juvenile osteochondrosis of hand,0,219,
+M92.3,Oth juvenile osteochondrosis upper limb,0,219,
+M92.4,Juvenile osteochondrosis of patella,0,219,
+M92.5,Juvenile osteochondrosis tibia & fibula,0,219,
+M92.6,Juvenile osteochondrosis of tarsus,0,219,
+M92.7,Juvenile osteochondrosis of metatarsus,0,219,
+M92.8,Other specified juvenile osteochondrosis,0,219,
+M92.9,Juvenile osteochondrosis unspecified,0,219,
+M93.1,Kienbock's disease of adults,215,324,
+M96.1,Postlaminectomy syndrome NEC,215,324,
+M96.3,Postlaminectomy kyphosis,215,324,
+N01.0,Rapid progress neph synd minor glom abn,201,324,
+N01.1,Progress neph synd focl seg glom lesion,201,324,
+N01.2,Progress neph synd dfs memb glomneph,201,324,
+N01.3,Neph synd dfs mesangial prolf glomneph,201,324,
+N01.4,Neph synd dfs endcap prolf glomneph,201,324,
+N01.5,Neph synd diffuse mesngcp glomneph,201,324,
+N01.6,Progressive neph synd dense deposit dis,201,324,
+N01.7,Neph synd diffuse crescentic glomneph,201,324,
+N01.8,Rapid progress nephritic syndrome other,201,324,
+N01.9,Rapidly progress nephritic syndrome unsp,201,324,
+N03.0,Chr nephritic syndrome minor glom abn,201,324,
+N03.1,Chr neph synd focal & segment glom lsn,201,324,
+N03.2,Chr neph synd dfs membranous glomneph,201,324,
+N03.3,Chr neph synd mesngl prolf glomneph,201,324,
+N03.4,Chr neph synd endcap prolf glomneph,201,324,
+N03.5,Chr neph synd dfs mesngcp glomneph,201,324,
+N03.6,Chr neph syndrome dense deposit disease,201,324,
+N03.7,Chr neph synd dfs crescentic glomneph,201,324,
+N03.8,Chronic nephritic syndrome other,201,324,
+N03.9,Chronic nephritic syndrome unspecified,201,324,
+N14.0,Analgesic nephropathy,215,324,
+N18.5,"Chronic kidney disease, stage 5",215,324,
+N18.9,"Chronic kidney disease, unspecified",201,324,
+N19,Unspecified kidney failure,201,324,
+N34.1,Nonspecific urethritis,215,324,
+N34.2,Other urethritis,215,324,
+N39.31,Stress incont ass femle pelv org prolps,215,324,FEML
+N40,Hyperplasia of prostate,230,324,MALE
+N41.0,Acute prostatitis,215,324,MALE
+N41.1,Chronic prostatitis,230,324,MALE
+N41.2,Abscess of prostate,230,324,MALE
+N41.3,Prostatocystitis,230,324,MALE
+N41.8,Other inflammatory diseases of prostate,230,324,MALE
+N41.9,Inflammatory disease of prostate unsp,230,324,MALE
+N42.0,Calculus of prostate,230,324,MALE
+N42.1,Congestion and haemorrhage of prostate,230,324,MALE
+N42.2,Atrophy of prostate,230,324,MALE
+N42.3,Dysplasia of prostate,230,324,MALE
+N42.8,Other specified disorders of prostate,230,324,MALE
+N42.9,Disorder of prostate unspecified,230,324,MALE
+N46,Male infertility,215,324,MALE
+N48.4,Impotence of organic origin,215,324,MALE
+N51.0,Disorders of prostate in diseases cl/e,230,324,MALE
+N60.0,Solitary cyst of breast,215,324,
+N60.1,Diffuse cystic mastopathy,215,324,
+N60.2,Fibroadenosis of breast,215,324,
+N60.3,Fibrosclerosis of breast,215,324,
+N60.4,Mammary duct ectasia,215,324,
+N60.8,Other benign mammary dysplasias,215,324,
+N60.9,Benign mammary dysplasia unspecified,215,324,
+N64.3,Galactorrhoea not ass w childbirth,215,324,FEML
+N70.1,Chronic salpingitis and oophoritis,215,324,FEML
+N71.1,Chronic inflammatory disease of uterus,215,324,FEML
+N72,Inflammatory disease of cervix uteri,215,324,FEML
+N73.1,Chronic parametritis & pelvic cellulitis,215,324,FEML
+N73.4,Female chronic pelvic peritonitis,215,324,FEML
+N80.0,Endometriosis of uterus,215,324,FEML
+N80.1,Endometriosis of ovary,215,324,FEML
+N80.2,Endometriosis of fallopian tube,215,324,FEML
+N80.3,Endometriosis of pelvic peritoneum,215,324,FEML
+N80.4,Endometriosis rectovaginal septum vagina,215,324,FEML
+N80.5,Endometriosis of intestine,215,324,FEML
+N80.6,Endometriosis in cutaneous scar,215,324,FEML
+N80.8,Other endometriosis,215,324,FEML
+N80.9,Endometriosis unspecified,215,324,FEML
+N81.0,Female urethrocele,215,324,FEML
+N81.1,Cystocele,215,324,FEML
+N81.2,Incomplete uterovaginal prolapse,215,324,FEML
+N81.3,Complete uterovaginal prolapse,215,324,FEML
+N81.4,Uterovaginal prolapse unspecified,215,324,FEML
+N81.5,Vaginal enterocele,215,324,FEML
+N81.6,Rectocele,215,324,FEML
+N81.8,Other female genital prolapse,215,324,FEML
+N81.9,Female genital prolapse unspecified,215,324,FEML
+N91.0,Primary amenorrhoea,210,260,FEML
+N91.1,Secondary amenorrhoea,210,260,FEML
+N91.2,Amenorrhoea unspecified,210,260,FEML
+N91.3,Primary oligomenorrhoea,210,260,FEML
+N91.4,Secondary oligomenorrhoea,210,260,FEML
+N91.5,Oligomenorrhoea unspecified,210,260,FEML
+N92.0,Excess freq menstruation w regular cycle,210,260,FEML
+N92.1,Excess freq menstruation w irreg cycle,210,260,FEML
+N92.2,Excessive menstruation at puberty,208,219,FEML
+N92.3,Ovulation bleeding,210,260,FEML
+N92.4,Excessive bleeding premenopausal period,210,260,FEML
+N92.5,Other specified irregular menstruation,210,260,FEML
+N92.6,Irregular menstruation unspecified,210,260,FEML
+N93.0,Postcoital and contact bleeding,215,324,FEML
+N94.0,Mittelschmerz,210,260,FEML
+N94.1,Dyspareunia,215,324,FEML
+N94.2,Vaginismus,215,324,FEML
+N94.3,Premenstrual tension syndrome,210,260,FEML
+N94.4,Primary dysmenorrhoea,210,260,FEML
+N94.5,Secondary dysmenorrhoea,210,260,FEML
+N94.6,Dysmenorrhoea unspecified,210,260,FEML
+N95.0,Postmenopausal bleeding,230,324,FEML
+N95.1,Menopausal and female climacteric states,230,324,FEML
+N95.2,Postmenopausal atrophic vaginitis,230,324,FEML
+N95.3,States associated w artificial menopause,230,324,FEML
+N95.8,Oth spec menopausal perimenopausal disrd,230,324,FEML
+N95.9,Menopausal & perimenopausal disrd unsp,230,324,FEML
+N96,Habitual aborter,210,260,FEML
+N97.0,Female infertility ass w anovulation,210,260,FEML
+N97.1,Female infertility of tubal origin,210,260,FEML
+N97.2,Female infertility of uterine origin,210,260,FEML
+N97.3,Female infertility of cervical origin,210,260,FEML
+N97.4,Female infertility ass w male factors,210,260,FEML
+N97.8,Female infertility of other origin,210,260,FEML
+N97.9,Female infertility unspecified,210,260,FEML
+N98.0,Infectn ass w artificial insemination,210,260,FEML
+N98.1,Hyperstimulation of ovaries,210,260,FEML
+N98.2,Comp attempt intro fertil ovum foll IVF,210,260,FEML
+N98.3,Comp attempt intro embryo in trsf,210,260,FEML
+N98.8,Oth comp ass w artf fertilisation,210,260,FEML
+N98.9,Comp ass w artf fertilisation unsp,210,260,FEML
+N99.1,Postprocedural urethral stricture,215,324,
+N99.2,Postprocedural adhesions of vagina,215,324,FEML
+N99.3,Prolapse vag vault after hysterectomy,215,324,FEML
+N99.4,Postproc pelvic peritoneal adhesions,215,324,
+N99.9,Intra/postop disrd GU system unsp,215,324,
+O00.0,Abdominal pregnancy,210,260,FEML
+O00.1,Tubal pregnancy,210,260,FEML
+O00.2,Ovarian pregnancy,210,260,FEML
+O00.8,Other ectopic pregnancy,210,260,FEML
+O00.9,Ectopic pregnancy unspecified,210,260,FEML
+O01.0,Classical hydatidiform mole,210,260,FEML
+O01.1,Incomplete and partial hydatidiform mole,210,260,FEML
+O01.9,Hydatidiform mole unspecified,210,260,FEML
+O02.0,Blighted ovum and nonhydatidiform mole,210,260,FEML
+O02.1,Missed abortion,210,260,FEML
+O02.8,Oth spec abnormal products of conception,210,260,FEML
+O02.9,Abnormal product of conception unsp,210,260,FEML
+O03.0,Spont abortn incomp GT infectn & seps,210,260,FEML
+O03.1,Spont abortion incomp complic by haem,210,260,FEML
+O03.2,Spont abortion incomp complic embolism,210,260,FEML
+O03.3,Spont abortion incomp oth / unsp comp,210,260,FEML
+O03.4,Spontaneous abortion incomplete wo comp,210,260,FEML
+O03.5,Spont abortn compl or unsp infectn seps,210,260,FEML
+O03.6,Spont abortn complete or unsp w haem,210,260,FEML
+O03.7,Spont abortn compl or unsp w embolism,210,260,FEML
+O03.8,Spont abortn compl unsp w unsp comp,210,260,FEML
+O03.9,Spont abortion compl or unsp wo comp,210,260,FEML
+O04.0,Medical abortn incomp infectn & seps,210,260,FEML
+O04.1,Medical abortn incomp w haem,210,260,FEML
+O04.2,Medical abortn incomp w embolism,210,260,FEML
+O04.3,Med abortion incomp w oth / unsp comp,210,260,FEML
+O04.4,Medical abortion incomplete wo comp,210,260,FEML
+O04.5,Med abortion compl or unsp infectn seps,210,260,FEML
+O04.6,Medical abortn complete or unsp w haem,210,260,FEML
+O04.7,Medical abortn compl unsp w embolism,210,260,FEML
+O04.8,Med abortion complete or unsp oth comp,210,260,FEML
+O04.9,Medical abortion complete unsp wo comp,210,260,FEML
+O05.0,Oth abortn incomp complic infectn & seps,210,260,FEML
+O05.1,Oth abortn incomp w haemorrhage,210,260,FEML
+O05.2,Oth abortion incomp w embolism,210,260,FEML
+O05.3,Oth abortion incomp w oth & unsp comp,210,260,FEML
+O05.4,Oth abortion incomplete wo complication,210,260,FEML
+O05.5,Oth abortn compl or unsp infectn & seps,210,260,FEML
+O05.6,Oth abortn complete unsp complic haem,210,260,FEML
+O05.7,Oth abortn complete or unsp w embolism,210,260,FEML
+O05.8,Oth abortn complete or unsp w oth comp,210,260,FEML
+O05.9,Oth abortion complete or unsp wo comp,210,260,FEML
+O06.0,Unsp abortn incomp complic infectn seps,210,260,FEML
+O06.1,Unsp abortn incomp w haemorrhage,210,260,FEML
+O06.2,Unsp abortn incomp w embolism,210,260,FEML
+O06.3,Unsp abortn incomp w oth & unsp comp,210,260,FEML
+O06.4,Unsp abortn incomp wo complication,210,260,FEML
+O06.5,Unsp abortn compl complic infectn & seps,210,260,FEML
+O06.6,Unsp abortn compl / unsp w haem,210,260,FEML
+O06.7,Unsp abortn compl / unsp w embolism,210,260,FEML
+O06.8,Unsp abortn compl / unsp w oth comp,210,260,FEML
+O06.9,Unsp abortn compl / unsp wo comp,210,260,FEML
+O07.0,Failed medical abortn infectn & sepsis,210,260,FEML
+O07.1,Failed medical abortn w haem,210,260,FEML
+O07.2,Failed medical abortn w embolism,210,260,FEML
+O07.3,Failed med abortion w other & unsp comp,210,260,FEML
+O07.4,Failed medical abortion wo complication,210,260,FEML
+O07.5,Oth ? fail atempt abortn infectn & seps,210,260,FEML
+O07.6,Oth unsp fail attempt abortn w haem,210,260,FEML
+O07.7,Oth unsp fail attempt abortn w embol,210,260,FEML
+O07.8,Oth unsp fail attempt abortn oth comp,210,260,FEML
+O07.9,Oth unsp fail attempt abortn wo comp,210,260,FEML
+O08.0,Infectn seps foll abortn ectop molar,210,260,FEML
+O08.1,Haem foll abortn ectop molar pregnancy,210,260,FEML
+O08.2,Embolism foll abortn ectop molar preg,210,260,FEML
+O08.3,Shock foll abortn ectop molar pregnancy,210,260,FEML
+O08.4,Kidney fail foll abortn ectop molar preg,210,260,FEML
+O08.5,Metab disrd foll abortn ectop molar preg,210,260,FEML
+O08.6,Pelv damage foll abortn ectop molar preg,210,260,FEML
+O08.7,Oth venous comp abortn ectop molar preg,210,260,FEML
+O08.8,Oth comp foll abortn ectop molar preg,210,260,FEML
+O08.9,Comp foll abortn ectop molar preg unsp,210,260,FEML
+O09.0,Duration of pregnancy < 5 completed wk,210,260,FEML
+O09.1,Duration preg 5-13 completed weeks,210,260,FEML
+O09.2,Duration preg 14-19 completed weeks,210,260,FEML
+O09.3,Duration preg 20-25 completed weeks,210,260,FEML
+O09.4,Duration preg 26-33 completed weeks,210,260,FEML
+O09.5,Duration preg 34-36 completed weeks,210,260,FEML
+O09.9,Unspecified duration of pregnancy,210,260,FEML
+O10,Pre-exist H/T in preg brth puerperium,210,260,FEML
+O11,Pre-eclampsia superimp on chr H/T,210,260,FEML
+O12.0,Gestational oedema,210,260,FEML
+O12.1,Gestational proteinuria,210,260,FEML
+O12.2,Gestational oedema with proteinuria,210,260,FEML
+O13,Gestational H/T,210,260,FEML
+O14.0,Mild to moderate pre-eclampsia,210,260,FEML
+O14.1,Severe pre-eclampsia,210,260,FEML
+O14.2,HELLP syndrome,210,260,FEML
+O14.9,Pre-eclampsia unspecified,210,260,FEML
+O15.0,Eclampsia in pregnancy,210,260,FEML
+O15.1,Eclampsia in labour,210,260,FEML
+O15.2,Eclampsia in the puerperium,210,260,FEML
+O15.9,Eclampsia unspecified as to time period,210,260,FEML
+O16,Unspecified maternal hypertension,210,260,FEML
+O20.0,Threatened abortion,210,260,FEML
+O20.8,Other haemorrhage in early pregnancy,210,260,FEML
+O20.9,Haemorrhage in early pregnancy unsp,210,260,FEML
+O21.0,Hyperemesis gravidarum,210,260,FEML
+O21.2,Vomiting in late pregnancy,210,260,FEML
+O21.9,Vomiting in pregnancy NEC,210,260,FEML
+O22.4,Haemorrhoids in pregnancy,210,260,FEML
+O22.9,Venous condition in pregnancy,210,260,FEML
+O23.0,Infections of kidney in pregnancy,210,260,FEML
+O23.1,Infections of bladder in pregnancy,210,260,FEML
+O23.2,Infections of urethra in pregnancy,210,260,FEML
+O23.3,Infectn oth parts urinary tract in preg,210,260,FEML
+O23.4,Unsp infectn urinary tract in pregnancy,210,260,FEML
+O23.5,Infections genital tract in pregnancy,210,260,FEML
+O23.9,Oth & unsp GU infection in preg,210,260,FEML
+O24.0,Pre-exist Type 1 DM in preg brth puerp,210,260,FEML
+O24.12,Pre-exist T2DM in preg brth puerp insln,210,260,FEML
+O24.13,Pre-exist T2DM preg brth puerp oral,210,260,FEML
+O24.14,Pre-exist T2DM preg brth puerp other,210,260,FEML
+O24.19,Pre-existing T2DM preg brth puerp unsp,210,260,FEML
+O24.22,Pre-exist oth DM preg brth puerp insln,210,260,FEML
+O24.23,Pre-exist oth DM preg brth puerp oral,210,260,FEML
+O24.24,Pre-exist oth DM preg brth puerp other,210,260,FEML
+O24.29,Pre-exist oth DM preg brth puerp unsp,210,260,FEML
+O24.32,Pre-exist unsp DM preg brth puerp insln,210,260,FEML
+O24.33,Pre-exist unsp DM preg brth puerp oral,210,260,FEML
+O24.34,Pre-exist unsp DM preg brth puerp other,210,260,FEML
+O24.39,Pre-exist unsp DM preg brth puerp unsp,210,260,FEML
+O24.42,DM arising during pregnancy insln trt,210,260,FEML
+O24.43,DM arising during preg orl hypogly Rx,210,260,FEML
+O24.44,DM arising during pregnancy other,210,260,FEML
+O24.49,DM arising during pregnancy unsp,210,260,FEML
+O24.52,Pre-exist IH preg brth puerp insln trt,210,260,FEML
+O24.53,Pre-exist IH preg brth puerp oral,210,260,FEML
+O24.54,Pre-exist IH in preg brth puerp other,210,260,FEML
+O24.59,Pre-exist IH in preg brth puerp unsp,210,260,FEML
+O24.92,DM in preg brth puerp unsp onset insln,210,260,FEML
+O24.93,DM in preg brth puerp unsp onset oral,210,260,FEML
+O24.94,DM in preg brth puerp unsp onset other,210,260,FEML
+O24.99,DM in preg brth puerp unsp onset unsp,210,260,FEML
+O25,Malnutrition in pregnancy brth puerp,210,260,FEML
+O26.0,Excessive weight gain in pregnancy,210,260,FEML
+O26.1,Low weight gain in pregnancy,210,260,FEML
+O26.2,Pregnancy care of habitual aborter,210,260,FEML
+O26.3,Retained IUCD in pregnancy,210,260,FEML
+O26.4,Pemphigoid [herpes] gestationis,210,260,FEML
+O26.5,Maternal hypotension syndrome,210,260,FEML
+O26.6,Liver disrd in preg brth & puerperium,210,260,FEML
+O26.7,Sublux symphysis pubis preg brth puerp,210,260,FEML
+O26.81,Kidney disrd in preg birth puerperium,210,260,FEML
+O26.88,Oth spec pregnancy-related conditions,210,260,FEML
+O26.9,Pregnancy-related condition unspecified,210,260,FEML
+O28.0,Abn haematological find A/N screen moth,210,260,FEML
+O28.1,Abn biochemical find A/N screen mother,210,260,FEML
+O28.2,Abn cytological find A/N screen mother,210,260,FEML
+O28.3,Abn ultrasonic find A/N screen mother,210,260,FEML
+O28.4,Abn radiological find A/N screen mother,210,260,FEML
+O28.5,Abn chromsm find A/N screen mother,210,260,FEML
+O28.8,Oth abn find antenatal screening mother,210,260,FEML
+O28.9,Abn find A/N screen of mother unsp,210,260,FEML
+O30.0,Twin pregnancy,210,260,FEML
+O30.1,Triplet pregnancy,210,260,FEML
+O30.2,Quadruplet pregnancy,210,260,FEML
+O30.8,Other multiple gestation,210,260,FEML
+O30.9,Multiple gestation unspecified,210,260,FEML
+O31.0,Papyraceous fetus,210,260,FEML
+O31.1,Continuing preg after abortn >= 1 fetus,210,260,FEML
+O31.2,Cont preg after IU death >=1 fetus,210,260,FEML
+O31.8,Oth comp specific to multiple gestation,210,260,FEML
+O32.0,Maternal care for unstable lie,210,260,FEML
+O32.1,Maternal care for breech presentation,210,260,FEML
+O32.2,Maternal care transverse & oblique lie,210,260,FEML
+O32.3,Mat care face brow & chin presentation,210,260,FEML
+O32.4,Maternal care for high head at term,210,260,FEML
+O32.6,Maternal care for compound presentation,210,260,FEML
+O32.8,Maternal care for oth malpres fetus,210,260,FEML
+O32.9,Maternal care for malpres fetus unsp,210,260,FEML
+O33.0,Mat care disprop dt defrm mat pelv bones,210,260,FEML
+O33.1,Mat care disprop dt contracted pelvis,210,260,FEML
+O33.2,Mat care disprop inlet contrctn pelvis,210,260,FEML
+O33.3,Mat care disprop outlet contrctn pelvis,210,260,FEML
+O33.4,Mat care disprop mx mat & fetal origin,210,260,FEML
+O33.5,Mat care disprop dt large fetus,210,260,FEML
+O33.6,Mat care disprop hydrocephalic fetus,210,260,FEML
+O33.7,Mat care disprop oth fetal deformities,210,260,FEML
+O33.8,Mat care for disproportion oth origin,210,260,FEML
+O33.9,Maternal care for disproportion unsp,210,260,FEML
+O34.0,Mat care for cong malformation uterus,210,260,FEML
+O34.1,Maternal care for tumour of corpus uteri,210,260,FEML
+O34.2,Mat care uterine scar previous surgery,210,260,FEML
+O34.3,Maternal care for cervical incompetence,210,260,FEML
+O34.4,Maternal care for oth abn cervix,210,260,FEML
+O34.5,Mat care for oth abn gravid uterus,210,260,FEML
+O34.6,Maternal care for abnormality of vagina,210,260,FEML
+O34.7,Mat care for abn vulva & perineum,210,260,FEML
+O34.8,Maternal care for oth abn pelv org,210,260,FEML
+O34.9,Maternal care for abn pelvic org unsp,210,260,FEML
+O35.0,Mat care suspected CNS malform fetus,210,260,FEML
+O35.1,Mat care suspect chromosomal abn fetus,210,260,FEML
+O35.2,Mat care suspect hereditary dis in fetus,210,260,FEML
+O35.3,Mat care suspect dam fetus mat viral dis,210,260,FEML
+O35.4,Mat care suspect damage fetus dt alcohol,210,260,FEML
+O35.5,Mat care suspect damage fetus dt drugs,210,260,FEML
+O35.6,Mat care suspect dam fetus dt radiation,210,260,FEML
+O35.7,Mat care suspect dam fetus dt med proc,210,260,FEML
+O35.8,Mat care oth suspect fetal abn & damage,210,260,FEML
+O35.9,Mat care suspect fetal abn damage unsp,210,260,FEML
+O36.0,Maternal care for rhesus isoimmunisation,210,260,FEML
+O36.1,Maternal care for other isoimmunisation,210,260,FEML
+O36.2,Maternal care for hydrops fetalis,210,260,FEML
+O36.3,Maternal care for signs of fetal hypoxia,210,260,FEML
+O36.4,Maternal care for intrauterine death,210,260,FEML
+O36.5,Maternal care for poor fetal growth,210,260,FEML
+O36.6,Maternal care for excessive fetal growth,210,260,FEML
+O36.7,Mat care for viable fetus in abdo preg,210,260,FEML
+O36.8,Mat care for oth spec fetal problems,210,260,FEML
+O36.9,Maternal care for fetal problem unsp,210,260,FEML
+O40,Polyhydramnios,210,260,FEML
+O41.0,Oligohydramnios,210,260,FEML
+O41.1,Infection of amniotic sac and membranes,210,260,FEML
+O41.8,Oth spec disrd amniotic fluid membranes,210,260,FEML
+O41.9,Disrd of amniotic fluid & membranes unsp,210,260,FEML
+O42.0,PROM onset labour within 24 hours,210,260,FEML
+O42.11,PROM onset labour between 1-7 days later,210,260,FEML
+O42.12,PROM onset labour more than 7 days later,210,260,FEML
+O42.2,PROM labour delayed therapy,210,260,FEML
+O42.9,Premature rupture of membranes unsp,210,260,FEML
+O43.0,Placental transfusion syndromes,210,260,FEML
+O43.1,Malformation of placenta,210,260,FEML
+O43.2,Morbidly adherent placenta,210,260,FEML
+O43.8,Other placental disorders,210,260,FEML
+O43.9,Placental disorder unspecified,210,260,FEML
+O44.0,Placenta praevia spec as wo haemorrhage,210,260,FEML
+O44.1,Placenta praevia with haemorrhage,210,260,FEML
+O45.0,Prem sep placenta w coagulation defect,210,260,FEML
+O45.8,Other premature separation of placenta,210,260,FEML
+O45.9,Premature separation of placenta unsp,210,260,FEML
+O46.0,Antepartum haem w coagulation defect,210,260,FEML
+O46.8,Other antepartum haemorrhage,210,260,FEML
+O46.9,Antepartum haemorrhage unspecified,210,260,FEML
+O47.0,False labour < 37 completed weeks gest,210,260,FEML
+O47.1,False labour >= 37 completed weeks gest,210,260,FEML
+O47.2,Labour without delivery,210,260,FEML
+O47.9,False labour unspecified,210,260,FEML
+O48,Prolonged pregnancy,210,260,FEML
+O60.0,Preterm labour without delivery,210,260,FEML
+O60.1,Preterm spont labour w preterm delivery,210,260,FEML
+O60.2,Preterm spont labour w term delivery,210,260,FEML
+O60.3,Preterm delivery wo spont labour,210,260,FEML
+O61.0,Failed medical induction of labour,210,260,FEML
+O61.1,Failed surgical induction of labour,210,260,FEML
+O61.2,Fail medical surgical induct labour,210,260,FEML
+O61.8,Other failed induction of labour,210,260,FEML
+O61.9,Failed induction of labour unspecified,210,260,FEML
+O62.0,Primary inadequate contractions,210,260,FEML
+O62.1,Secondary uterine inertia,210,260,FEML
+O62.2,Other uterine inertia,210,260,FEML
+O62.3,Precipitate labour,210,260,FEML
+O62.4,Hypertonic incoord prolonged contrctn,210,260,FEML
+O62.8,Other abnormalities of forces of labour,210,260,FEML
+O62.9,Abnormality of forces of labour unsp,210,260,FEML
+O63.0,Prolonged first stage (of labour),210,260,FEML
+O63.1,Prolonged second stage (of labour),210,260,FEML
+O63.2,Delay delv 2nd or subsqt fetus mult delv,210,260,FEML
+O63.3,Prolonged third stage of labour,210,260,FEML
+O63.9,Long labour unspecified,210,260,FEML
+O64.0,Lb & delv aff by incomp rotatn fetal hed,210,260,FEML
+O64.1,Lb & delv aff by breech presentation,210,260,FEML
+O64.2,Lb & delv aff by face presentation,210,260,FEML
+O64.3,Lb & delv aff by brow presentation,210,260,FEML
+O64.4,Lb & delv aff by shoulder present,210,260,FEML
+O64.5,Lb & delv aff by compound present,210,260,FEML
+O64.8,Lb & delv aff by oth malpos malpres,210,260,FEML
+O64.9,Lb & delv aff by malpos malpres unsp,210,260,FEML
+O65.0,Lb & delv aff by deformed pelvis,210,260,FEML
+O65.1,Lb & delv aff by contracted pelvis,210,260,FEML
+O65.2,Lb & delv aff by pelvic inlet contract,210,260,FEML
+O65.3,Lb & delv aff by pelvic outlet contract,210,260,FEML
+O65.4,Lb & delv aff by FPD unsp,210,260,FEML
+O65.5,Lb & delv aff by abn mat pelvic org,210,260,FEML
+O65.8,Lb & delv aff by oth mat pelv abn,210,260,FEML
+O65.9,Lb & delv aff by mat pelvic abn unsp,210,260,FEML
+O66.0,Lb & delv aff by shoulder dystocia,210,260,FEML
+O66.1,Lb & delv aff by locked twins,210,260,FEML
+O66.2,Lb & delv aff by large fetus,210,260,FEML
+O66.3,Lb & delv aff by oth abn fetus,210,260,FEML
+O66.4,Failed trial of labour unspecified,210,260,FEML
+O66.5,Fail applictn vacuum extr forceps unsp,210,260,FEML
+O66.8,Labour and delivery aff by oth dystocia,210,260,FEML
+O66.9,Lb & delv aff by dystocia unspecified,210,260,FEML
+O67.0,Intrapartum haem w coagulation defect,210,260,FEML
+O67.8,Other intrapartum haemorrhage,210,260,FEML
+O67.9,Intrapartum haemorrhage unspecified,210,260,FEML
+O68.0,Labour delivery complic FHR anomaly,210,260,FEML
+O68.1,Labour delivery complic meconium liquor,210,260,FEML
+O68.2,Labour delivery FHR abn w mec liquor,210,260,FEML
+O68.3,Labour delv biochem evdce fetal stress,210,260,FEML
+O68.8,Labour delivery w oth evdce fetal stress,210,260,FEML
+O68.9,Labour delv complic fetal stress unsp,210,260,FEML
+O69.0,Labour & delivery complic prolapse cord,210,260,FEML
+O69.1,Delivery cord around neck w compression,210,260,FEML
+O69.2,Labour delv oth cd entanglement w comprs,210,260,FEML
+O69.3,Labour & delivery complic by short cord,210,260,FEML
+O69.4,Labour & delivery complic vasa praevia,210,260,FEML
+O69.5,Labour & delivery w vascular lesion cord,210,260,FEML
+O69.8,Labour & delivery complic oth cord comp,210,260,FEML
+O69.9,Labour & delivery complic cord comp unsp,210,260,FEML
+O70.0,First degree perineal laceration delv,210,260,FEML
+O70.1,Second deg perineal laceration dur delv,210,260,FEML
+O70.2,Third deg perineal laceration dur delv,210,260,FEML
+O70.3,Fourth deg perineal laceration dur delv,210,260,FEML
+O70.9,Perineal laceration during delivery unsp,210,260,FEML
+O71.00,"Rupt of uterus bef labour, unsp",210,260,FEML
+O71.01,Spont rupt of uterus bef labour,210,260,FEML
+O71.02,Traum rupt of uterus bef labour,210,260,FEML
+O71.10,"Rupt of uterus during labour, unsp",210,260,FEML
+O71.11,Spont rupt of uterus during labour,210,260,FEML
+O71.12,Traum rupt of uterus during labour,210,260,FEML
+O71.2,Postpartum inversion of uterus,210,260,FEML
+O71.3,Obstetric laceration of cervix,210,260,FEML
+O71.4,Obstetric high vag laceration (alone),210,260,FEML
+O71.5,Other obstetric injury to pelvic organs,210,260,FEML
+O71.6,Obstetric damage pelv joints & ligaments,210,260,FEML
+O71.7,Obstetric haematoma of pelvis,210,260,FEML
+O71.81,Obstetric uterine laceration or tear,210,260,FEML
+O71.82,Diats of recti abdo musc in preg / delv,210,260,FEML
+O71.88,Other specified obstetric trauma,210,260,FEML
+O71.9,Obstetric trauma unspecified,210,260,FEML
+O72.0,Third-stage haemorrhage,210,260,FEML
+O72.1,Other immediate postpartum haemorrhage,210,260,FEML
+O72.2,Delayed & sec postpartum haemorrhage,210,260,FEML
+O72.3,Postpartum coagulation defects,210,260,FEML
+O73.0,Retained placenta,210,260,FEML
+O73.1,Retained portion placenta & membranes,210,260,FEML
+O75.0,Mat distress during labour & delivery,210,260,FEML
+O75.1,Shock during or foll labour & delivery,210,260,FEML
+O75.2,Pyrexia during labour NEC,210,260,FEML
+O75.3,Other infection during labour,210,260,FEML
+O75.5,Delayed delivery after artificial ROM,210,260,FEML
+O75.6,Delay delivery after spont or unsp ROM,210,260,FEML
+O75.7,Vaginal delivery foll previous C/S,210,260,FEML
+O75.8,Oth spec complications labour & delivery,210,260,FEML
+O75.9,Complication of labour and delivery unsp,210,260,FEML
+O80,Single spontaneous delivery,210,260,FEML
+O81,Single delivery forceps & vacuum extr,210,260,FEML
+O82,Single delivery by caesarean section,210,260,FEML
+O83,Other assisted single delivery,210,260,FEML
+O84.0,Multiple delivery all spontaneous,210,260,FEML
+O84.1,Mult delv all forceps & vacuum extractor,210,260,FEML
+O84.2,Mult delv all by caesarean section,210,260,FEML
+O84.81,Multiple delivery all assisted NEC,210,260,FEML
+O84.82,Multiple delivery by combination methods,210,260,FEML
+O84.9,Multiple delivery unspecified,210,260,FEML
+O85,Puerperal sepsis,210,260,FEML
+O86.0,Infection of obstetric surgical wound,210,260,FEML
+O86.1,Oth infectn gen tract following delivery,210,260,FEML
+O86.2,Urinary tract infectn following delivery,210,260,FEML
+O86.3,Oth GU tract infections foll delivery,210,260,FEML
+O86.4,Pyrexia unknown origin foll delivery,210,260,FEML
+O86.8,Other & unsp puerperal infections,210,260,FEML
+O87.2,Haemorrhoids in the puerperium,210,260,FEML
+O87.9,Venous condition in puerperium,210,260,FEML
+O88.0,Obstetric air embolism,210,260,FEML
+O88.1,Amniotic fluid embolism,210,260,FEML
+O88.2,Obstetric blood clot embolism,210,260,FEML
+O88.3,Obstetric pyaemic and septic embolism,210,260,FEML
+O88.8,Other obstetric embolism,210,260,FEML
+O90.0,Disruption of caesarean section wound,210,260,FEML
+O90.1,Disruption of perineal obstetric wound,210,260,FEML
+O90.2,Haematoma of obstetric wound,210,260,FEML
+O90.3,Cardiomyopathy in the puerperium,210,260,FEML
+O90.4,Postpartum acute kidney failure,210,260,FEML
+O90.5,Postpartum thyroiditis,210,260,FEML
+O90.8,Oth complications of the puerperium NEC,210,260,FEML
+O90.9,Complication of the puerperium unsp,210,260,FEML
+O91.00,Infectn nipple wo attachment difficulty,210,260,FEML
+O91.01,Infectn nipple w attachment difficulty,210,260,FEML
+O91.10,Abscess breast wo atchmt difficulty,210,260,FEML
+O91.11,Abscess breast w atchmt difficulty,210,260,FEML
+O91.20,Nonpurulent mastitis wo atchmt difficlt,210,260,FEML
+O91.21,Nonpurulent mastitis w atchmt difficulty,210,260,FEML
+O92.00,Retracted nipple wo attachment difficlt,210,260,FEML
+O92.01,Retracted nipple w attachment difficulty,210,260,FEML
+O92.10,Cracked nipple wo atchmt difficulty,210,260,FEML
+O92.11,Cracked nipple w atchmt difficulty,210,260,FEML
+O92.20,Oth / unsp dis brst wo atchmt difficlt,210,260,FEML
+O92.21,Oth / unsp dis breast w atchmt difficlt,210,260,FEML
+O92.30,Agalactia wo mention atchmt difficulty,210,260,FEML
+O92.31,Agalactia w mention attachment difficlt,210,260,FEML
+O92.40,Hypogalactia wo attachment difficulty,210,260,FEML
+O92.41,Hypogalactia w attachment difficulty,210,260,FEML
+O92.50,Suppressed lactation wo atchmt difficlt,210,260,FEML
+O92.51,Suppressed lactation w atchmt difficulty,210,260,FEML
+O92.60,Galactorrhoea wo attachment difficulty,210,260,FEML
+O92.61,Galactorrhoea w attachment difficulty,210,260,FEML
+O92.70,Oth disrd lact wo attachment difficlt,210,260,FEML
+O92.71,Oth disrd lact w attachment difficlt,210,260,FEML
+O94,Seq comp preg childbirth puerp,210,260,FEML
+O95,Obstetric death of unspecified cause,210,260,FEML
+O96.0,Death fr dir obst caus >42 days <1 yr,210,260,FEML
+O96.1,Death fr indir obst caus >42 days <1 yr,210,260,FEML
+O96.9,Death fr unsp obst caus >42 days <1 yr,210,260,FEML
+O97.0,Death from direct obst cause >= 1 year,210,260,FEML
+O97.1,Death from indirect obst cause >= 1 year,210,260,FEML
+O97.9,Death from unsp obst cause >= 1 year,210,260,FEML
+O98.0,Tuberculosis in preg brth puerperium,210,260,FEML
+O98.1,Syphilis in preg brth & puerperium,210,260,FEML
+O98.2,Gonorrhoea in preg brth & puerperium,210,260,FEML
+O98.3,Oth infectn predom sex in preg brth,210,260,FEML
+O98.4,Viral hepatitis in preg brth puerp,210,260,FEML
+O98.5,Oth viral dis in preg brth puerperium,210,260,FEML
+O98.6,Protozoal dis in preg brth puerperium,210,260,FEML
+O98.7,HIV disease in preg birth puerperium,210,260,FEML
+O98.8,Oth mat infect dis in preg brth puerp,210,260,FEML
+O98.9,Unsp mat infect dis in preg brth,210,260,FEML
+O99.00,"Anm in preg brth & puerp, ?",210,260,FEML
+O99.01,Anaemia in pregnancy,210,260,FEML
+O99.02,Anm in preg w pre-exist anm,210,260,FEML
+O99.03,Anm in brth & puerp,210,260,FEML
+O99.04,"Anm in brth & puerp, w pre-exist anm",210,260,FEML
+O99.1,Oth dis blood immune mechn preg brth,210,260,FEML
+O99.2,Endo nutrit & metab dis preg brth puerp,210,260,FEML
+O99.31,Mental disorders in preg brth & puerp,210,260,FEML
+O99.32,Diseases nervous sys in preg brth puerp,210,260,FEML
+O99.4,Dis circulatory system preg brth puerp,210,260,FEML
+O99.5,Dis respiratory sys preg brth & puerp,210,260,FEML
+O99.6,Dis digestive system preg brth puerp,210,260,FEML
+O99.7,Dis skin sbc tis preg brth & puerp,210,260,FEML
+O99.8,Oth spec dis in preg brth puerp,210,260,FEML
+P00.0,Fetus & newborn aff by mat H/T disrd,0,201,
+P00.1,Fetus & newborn aff by mat urinary dis,0,201,
+P00.2,Fetus & newborn aff by mat infect dis,0,201,
+P00.3,Fetus newborn aff oth mat circ resp dis,0,201,
+P00.4,Fetus & newborn aff mat nutrit disrd,0,201,
+P00.5,Fetus & newborn aff by maternal injury,0,201,
+P00.6,Fetus & newborn aff by maternal surgery,0,201,
+P00.7,Fetus newborn aff oth mat med proc NEC,0,201,
+P00.8,Fetus & newborn aff by oth mat cond,0,201,
+P00.9,Fetus & newborn aff by mat cond unsp,0,201,
+P01.0,Fetus & newborn aff incompetent cervix,0,201,
+P01.1,Fetus & newborn affected by PROM,0,201,
+P01.2,Fetus & newborn aff oligohydramnios,0,201,
+P01.3,Fetus & newborn aff polyhydramnios,0,201,
+P01.4,Fetus & newborn aff by ectop pregnancy,0,201,
+P01.5,Fetus & newborn aff by multiple preg,0,201,
+P01.6,Fetus & newborn aff by maternal death,0,201,
+P01.7,Fetus newborn aff malpres before labour,0,201,
+P01.8,Fetus & newborn aff by oth mat comp preg,0,201,
+P01.9,Fetus & newb aff by mat comp preg unsp,0,201,
+P02.0,Fetus & newborn aff by placenta praevia,0,201,
+P02.1,Fetus & newborn aff oth placnt sep haem,0,201,
+P02.2,Fetus aff oth morph fn abn placenta,0,201,
+P02.3,Fetus & newborn aff placnt transfn syndr,0,201,
+P02.4,Fetus & newborn aff by prolapsed cord,0,201,
+P02.5,Fetus newborn aff oth compression umb,0,201,
+P02.6,Fetus & newborn aff oth cond umb cord,0,201,
+P02.7,Fetus & newborn aff by chorioamnionitis,0,201,
+P02.8,Fetus & newborn aff by oth abn membranes,0,201,
+P02.9,Fetus & newb by aff abn membranes unsp,0,201,
+P03.0,Fetus & newborn aff by breech delivery,0,201,
+P03.1,Fetus newborn aff oth malpres in labour,0,201,
+P03.2,Fetus & newborn aff by forceps delivery,0,201,
+P03.3,Fetus & newborn aff by vacuum extr,0,201,
+P03.4,Fetus & newborn aff caesarean delivery,0,201,
+P03.5,Fetus & newborn aff precipitate delivery,0,201,
+P03.6,Fetus newborn aff abn uterine contrctn,0,201,
+P03.8,Fetus newborn aff oth spec comp labour,0,201,
+P03.9,Fetus newborn aff comp labour delv unsp,0,201,
+P04.0,Fetus & newborn aff mat anaes analgesia,0,201,
+P04.1,Fetus & newborn aff oth mat medication,0,201,
+P04.2,Fetus & newborn affected mat use tobacco,0,201,
+P04.3,Fetus & newborn affected mat use alcohol,0,201,
+P04.4,Fetus newborn aff mat use drugs addictn,0,201,
+P04.5,Fetus aff mat use nutrit chem subs,0,201,
+P04.6,Fetus aff mat exp envir chem subs,0,201,
+P04.8,Fetus newborn aff oth mat noxious subs,0,201,
+P04.9,Fetus aff mat noxious influence unsp,0,201,
+P05.0,Light for gestational age,0,201,
+P05.1,Small for gestational age,0,201,
+P05.2,Fetal malnutrition wo small gest age,0,201,
+P05.9,Slow fetal growth unspecified,0,201,
+P07.01,Extremely low birth weight 499g or less,0,201,
+P07.02,Extremely low birth weight 500-749g,0,201,
+P07.11,Other low birth weight 1000-1249g,0,201,
+P07.12,Other low birth weight 1250-1499g,0,201,
+P07.13,Other low birth weight 1500-2499g,0,201,
+P07.40,Extrme prematurity unsp gestational age,0,201,
+P07.41,Extrme prem gest age < 22 compl wk,0,201,
+P07.42,Extrme premarity gest age 22 compl wk,0,201,
+P07.43,Extrme premarity gest age 23 compl wk,0,201,
+P07.44,Extrme premarity gest age 24 compl wk,0,201,
+P07.45,Extrme premarity gest age 25 compl wk,0,201,
+P07.46,Extrme premarity gest age 26 compl wk,0,201,
+P07.47,Extrme premarity gest age 27 compl wk,0,201,
+P07.50,Preterm infant unspecified,0,201,
+P07.51,"Pret infant, gestational age 28 compl wk",0,201,
+P07.52,"Pret infant, gestational age 29 compl wk",0,201,
+P07.53,"Pret infant, gestational age 30 compl wk",0,201,
+P07.54,"Pret infant, gestational age 31 compl wk",0,201,
+P07.55,"Pret infant, gestational age 32 compl wk",0,201,
+P07.56,"Pret infant, gestational age 33 compl wk",0,201,
+P07.57,"Pret infant, gestational age 34 compl wk",0,201,
+P07.58,"Pret infant, gestational age 35 compl wk",0,201,
+P07.59,"Pret infant, gestational age 36 compl wk",0,201,
+P08.0,Exceptionally large baby,0,201,
+P08.1,Other heavy for gestational age infants,0,201,
+P08.2,Post-term infant not heavy for gest age,0,201,
+P10.0,Subdural haemorrhage due to birth trauma,0,201,
+P10.1,Cerebral haemorrhage due to birth trauma,0,201,
+P10.2,Intraventricular haem dt birth trauma,0,201,
+P10.3,Subarachnoid haemorrhage dt birth trauma,0,201,
+P10.4,Tentorial tear due to birth trauma,0,201,
+P10.8,Other intrcran lacr haem dt birth trauma,0,201,
+P10.9,Unsp intrcran lacr haem dt birth trauma,0,201,
+P11.0,Cerebral oedema due to birth trauma,0,201,
+P11.1,Oth spec brain damage dt birth trauma,0,201,
+P11.2,Unsp brain damage due to birth trauma,0,201,
+P11.3,Birth trauma to facial nerve,0,201,
+P11.4,Birth trauma to other cranial nerves,0,201,
+P11.5,Birth trauma to spine and spinal cord,0,201,
+P11.9,Birth trauma to CNS unsp,0,201,
+P12.0,Cephalhaematoma due to birth trauma,0,201,
+P12.1,Chignon due to birth trauma,0,201,
+P12.2,Epicranial subaponeurotic haem birth inj,0,201,
+P12.3,Bruising of scalp due to birth trauma,0,201,
+P12.4,Monitoring trauma of scalp of newborn,0,201,
+P12.8,Other birth trauma to scalp,0,201,
+P12.9,Birth trauma to scalp unspecified,0,201,
+P13.0,Fracture of skull due to birth trauma,0,201,
+P13.1,Other birth trauma to skull,0,201,
+P13.2,Birth trauma to femur,0,201,
+P13.3,Birth trauma to other long bones,0,201,
+P13.4,Fracture of clavicle due to birth trauma,0,201,
+P13.8,Birth trauma to oth parts of skeleton,0,201,
+P13.9,Birth trauma to skeleton unspecified,0,201,
+P14.0,Erb's paralysis due to birth trauma,0,201,
+P14.1,Klumpke's paralysis due to birth trauma,0,201,
+P14.2,Phrenic nerve paralysis dt birth trauma,0,201,
+P14.3,Other brachial plexus birth trauma,0,201,
+P14.8,Birth trauma to other perph nervous sys,0,201,
+P14.9,Birth trauma to perph nervous sys unsp,0,201,
+P15.0,Birth trauma to liver,0,201,
+P15.1,Birth trauma to spleen,0,201,
+P15.2,Sternomastoid trauma due to birth trauma,0,201,
+P15.3,Birth trauma to eye,0,201,
+P15.4,Birth trauma to face,0,201,
+P15.5,Birth trauma to external genitalia,0,201,
+P15.6,Sbc fat necrosis dt birth trauma,0,201,
+P15.8,Other specified birth trauma,0,201,
+P15.9,Birth trauma unspecified,0,201,
+P20.0,Intrauterine hypoxia before onset labour,0,201,
+P20.1,Intrauterine hypoxia during labour,0,201,
+P20.9,Intrauterine hypoxia unspecified,0,201,
+P21.0,Severe birth asphyxia,0,201,
+P21.1,Mild and moderate birth asphyxia,0,201,
+P21.9,Birth asphyxia unspecified,0,201,
+P22.0,Respiratory distress syndrome of newborn,0,201,
+P22.1,Transient tachypnoea of newborn,0,201,
+P22.8,Other respiratory distress of newborn,0,201,
+P22.9,Respiratory distress of newborn unsp,0,201,
+P23.0,Congenital pneumonia due to viral agent,0,201,
+P23.1,Congenital pneumonia due to Chlamydia,0,201,
+P23.2,Congenital pneumonia dt Staphylococcus,0,201,
+P23.3,Cong pneumonia dt Strep B,0,201,
+P23.4,Congenital pneumonia dt Escherichia coli,0,201,
+P23.5,Congenital pneumonia due to Pseudomonas,0,201,
+P23.6,Cong pneumonia dt oth bacterial agents,0,201,
+P23.8,Congenital pneumonia dt oth organisms,0,201,
+P23.9,Congenital pneumonia unspecified,0,201,
+P24.0,Neonatal aspiration of meconium,0,201,
+P24.1,Neonatal aspr amniotic fluid & mucus,0,201,
+P24.2,Neonatal aspiration of blood,0,201,
+P24.3,Neonatal aspr milk & regurgitated food,0,201,
+P24.8,Other neonatal aspiration syndromes,0,201,
+P24.9,Neonatal aspiration syndrome unsp,0,201,
+P25.0,Perinatal interstitial emphysema,0,201,
+P25.1,Pneumothorax in perinatal period,0,201,
+P25.2,Pneumomediastinum in perinatal period,0,201,
+P25.3,Pneumopericardium in perinatal period,0,201,
+P25.8,Oth perintl cond rel air leak syndrome,0,201,
+P26.0,Perinatal tracheobronchial haemorrhage,0,201,
+P26.1,Massive perinatal pulmonary haem,0,201,
+P26.8,Oth perinatal pulmonary haemorrhage,0,201,
+P26.9,Unsp perinatal pulmonary haemorrhage,0,201,
+P27.0,Wilson-Mikity syndrome,0,201,
+P27.1,Chronic neonatal lung disease,0,201,
+P27.8,Oth chr respiratory dis perinatal period,0,201,
+P27.9,Unsp chr resp dis perinatal period,0,201,
+P28.0,Primary atelectasis of newborn,0,201,
+P28.1,Other & unsp atelectasis of newborn,0,201,
+P28.2,Cyanotic attacks of newborn,0,201,
+P28.3,Primary sleep apnoea of newborn,0,201,
+P28.40,"Apnoea of newborn, unspecified",0,201,
+P28.41,Apnoea of prematurity,0,201,
+P28.49,Other apnoea of newborn,0,201,
+P28.5,Respiratory failure of newborn,0,201,
+P28.81,Snuffles in newborn,0,201,
+P28.82,Acquired subglottic stenosis in newborn,0,201,
+P28.83,Grunting in newborn,0,201,
+P28.89,Oth spec respiratory cond of newborn,0,201,
+P28.9,Respiratory condition of newborn unsp,0,201,
+P29.0,Neonatal cardiac failure,0,201,
+P29.1,Neonatal cardiac dysrhythmia,0,201,
+P29.2,Neonatal hypertension,0,201,
+P29.3,Persistent fetal circulation,0,201,
+P29.4,Transient myocardial ischaemia newborn,0,201,
+P29.81,Neonatal hypotension,0,201,
+P29.82,Ben & innocent card murmurs in newborn,0,201,
+P29.83,Embolism & thrombosis renal vein newborn,0,201,
+P29.89,Oth cardiovascular disrd,0,201,
+P29.9,Perinatal cardiovascular disrd unsp,0,201,
+P37.0,Congenital tuberculosis,0,201,
+P37.1,Congenital toxoplasmosis,0,201,
+P37.2,Neonatal (disseminated) listeriosis,0,201,
+P37.3,Congenital falciparum malaria,0,201,
+P37.4,Other congenital malaria,0,201,
+P37.50,"Neonatal candidiasis, unspecified",0,201,
+P37.51,Top or GI neonatal candidiasis,0,201,
+P37.52,Invasive neonatal candidiasis,0,201,
+P37.59,Other neonatal candidiasis,0,201,
+P37.8,Oth spec congenital infect & parasit dis,0,201,
+P37.9,Congenital infect & parasit disease unsp,0,201,
+P38,Omphalitis newborn w or wo mild haem,0,201,
+P39.0,Neonatal infective mastitis,0,201,
+P39.1,Neonatal conjunctivitis & dacryocystitis,0,201,
+P39.2,Intra-amniotic infection of fetus NEC,0,201,
+P39.3,Neonatal urinary tract infection,0,201,
+P39.4,Neonatal skin infection,0,201,
+P39.8,Oth spec infectn spec to perintl period,0,201,
+P39.9,Infectn spec to perinatal peri unsp,0,201,
+P50.0,Fetal blood loss from vasa praevia,0,201,
+P50.1,Fetal blood loss from ruptured cord,0,201,
+P50.2,Fetal blood loss from placenta,0,201,
+P50.3,Haemorrhage into co-twin,0,201,
+P50.4,Haemorrhage into maternal circulation,0,201,
+P50.5,Fetal blood loss cut end co-twin's cord,0,201,
+P50.8,Other fetal blood loss,0,201,
+P50.9,Fetal blood loss unspecified,0,201,
+P51.0,Massive umbilical haemorrhage of newborn,0,201,
+P51.8,Other umbilical haemorrhages of newborn,0,201,
+P51.9,Umbilical haemorrhage of newborn unsp,0,201,
+P52.0,Intraventricular haem G.1 fetus newborn,0,201,
+P52.1,Intraventricular haem G.2 fetus newborn,0,201,
+P52.21,Intraventricular haem G.3 fetus newborn,0,201,
+P52.22,Intraventricular haem G.4 fetus newborn,0,201,
+P52.3,Unsp intraventricular haem fetus newborn,0,201,
+P52.4,Intracerebral haem fetus & newborn,0,201,
+P52.5,Subarachnoid haem fetus & newborn,0,201,
+P52.6,Cerebellar post fossa haem fetus newborn,0,201,
+P52.8,Oth intracranial haem fetus & newborn,0,201,
+P52.9,Intracranial haem fetus & newborn unsp,0,201,
+P53,Haemorrhagic disease of fetus & newborn,0,201,
+P54.0,Neonatal haematemesis,0,201,
+P54.1,Neonatal melaena,0,201,
+P54.2,Neonatal rectal haemorrhage,0,201,
+P54.3,Oth neonatal gastrointestinal haem,0,201,
+P54.4,Neonatal adrenal haemorrhage,0,201,
+P54.5,Neonatal cutaneous haemorrhage,0,201,
+P54.6,Neonatal vaginal haemorrhage,0,201,FEML
+P54.8,Other specified neonatal haemorrhages,0,201,
+P54.9,Neonatal haemorrhage unspecified,0,201,
+P55.0,Rh isoimmunisation of fetus and newborn,0,201,
+P55.1,ABO isoimmunisation of fetus and newborn,0,201,
+P55.8,Oth immune haemolytic dis fetus newborn,0,201,
+P55.9,Immune haemolytic dis fetus newborn unsp,0,201,
+P56.0,Hydrops fetalis due to isoimmunisation,0,201,
+P56.9,Hydrops fetalis dt oth haemolytic dis,0,201,
+P57.0,Kernicterus due to isoimmunisation,0,201,
+P57.8,Other specified kernicterus,0,201,
+P57.9,Kernicterus unspecified,0,201,
+P58.0,Neonatal jaundice due to bruising,0,201,
+P58.1,Neonatal jaundice due to bleeding,0,201,
+P58.2,Neonatal jaundice due to infection,0,201,
+P58.3,Neonatal jaundice due to polycythaemia,0,201,
+P58.4,Neonatal jaundice dt mat drugs or toxin,0,201,
+P58.5,Neonatal jaundice dt swallowed mat blood,0,201,
+P58.8,Neon jaundice dt oth excess hemolys,0,201,
+P58.9,Neon jaundice excess dt haemolysis unsp,0,201,
+P59.0,Neonatal jaundice w preterm delivery,0,201,
+P59.1,Inspissated bile syndrome,0,201,
+P59.2,Neon jaundice w oth hepatocellular dam,0,201,
+P59.3,Neon jaundice dt breast milk inhibitor,0,201,
+P59.8,Neonatal jaundice from oth spec causes,0,201,
+P59.9,Neonatal jaundice unspecified,0,201,
+P60,DIC fetus & newborn,0,201,
+P61.0,Transient neonatal thrombocytopenia,0,201,
+P61.1,Polycythaemia neonatorum,0,201,
+P61.2,Anaemia of prematurity,0,201,
+P61.3,Congenital anaemia from fetal blood loss,0,201,
+P61.4,Other congenital anaemias NEC,0,201,
+P61.5,Transient neonatal neutropenia,0,201,
+P61.6,Oth transient neonatal disrd coagulation,0,201,
+P61.8,Oth spec perinatal haematological disrd,0,201,
+P61.9,Perinatal haematological disorder unsp,0,201,
+P70.0,synd infant of mother w gest diabetes,0,201,
+P70.1,Syndrome of infant of a diabetic mother,0,201,
+P70.2,Neonatal diabetes mellitus,0,201,
+P70.3,Iatrogenic neonatal hypoglycaemia,0,201,
+P70.4,Other neonatal hypoglycaemia,0,201,
+P70.8,Oth trns disrd fetal carbohydrate metab,0,201,
+P70.9,Trns disrd fetal carbohydrate metab unsp,0,201,
+P71.0,Cow's milk hypocalcaemia in newborn,0,201,
+P71.1,Other neonatal hypocalcaemia,0,201,
+P71.2,Neonatal hypomagnesaemia,0,201,
+P71.3,Neon tetany wo calcium magnesium def,0,201,
+P71.4,Transitory neonatal hypoparathyroidism,0,201,
+P71.8,Oth trns neon dis calcium magns metab,0,201,
+P71.9,Trns neon disrd calcm magns metab unsp,0,201,
+P72.0,Neonatal goitre NEC,0,201,
+P72.1,Transitory neonatal hyperthyroidism,0,201,
+P72.2,Oth trns neon disrd thyroid fn NEC,0,201,
+P72.8,Oth spec trns neonatal endocrine disrd,0,201,
+P72.9,Transitory neonatal endocrine disrd unsp,0,201,
+P74.0,Metabolic acidosis of newborn,0,201,
+P74.1,Dehydration of newborn,0,201,
+P74.20,"Disturb of sodium bal of newborn, unsp",0,201,
+P74.21,Hypernatraemia of newborn,0,201,
+P74.22,Hyponatraemia of newborn,0,201,
+P74.29,Oth disturbances sodium balance newborn,0,201,
+P74.30,"Disturb of K+ bal of newborn, unsp",0,201,
+P74.31,Hyperkalaemia of newborn,0,201,
+P74.32,Hypokalaemia of newborn,0,201,
+P74.39,Oth disturb of potassium bal of newborn,0,201,
+P74.4,Oth trns electrolyte disturb newborn,0,201,
+P74.5,Transitory tyrosinaemia of newborn,0,201,
+P74.8,Oth transitory metabolic disturb newborn,0,201,
+P74.9,Trns metab disturbance newborn unsp,0,201,
+P75,Meconium ileus in cystic fibrosis,0,201,
+P76.0,Meconium plug syndrome,0,201,
+P76.1,Transitory ileus of newborn,0,201,
+P76.2,Intest obstruction dt inspissated milk,0,201,
+P76.3,Volvulus of newborn,0,201,
+P76.8,Oth spec intestinal obstruction newborn,0,201,
+P76.9,Intestinal obstruction of newborn unsp,0,201,
+P77,Necrotising enterocolitis fetus newborn,0,201,
+P78.0,Perinatal intestinal perforation,0,201,
+P78.1,Other neonatal peritonitis,0,201,
+P78.2,Neon haematemesis & melaena dt mat blood,0,201,
+P78.3,Noninfective neonatal diarrhoea,0,201,
+P78.8,Oth spec perinatal digestive sys disrd,0,201,
+P78.9,Perinatal digestive system disorder unsp,0,201,
+P80.0,Cold injury syndrome,0,201,
+P80.8,Other hypothermia of newborn,0,201,
+P80.9,Hypothermia of newborn unspecified,0,201,
+P81.0,Environmental hyperthermia of newborn,0,201,
+P81.8,Oth spec disturb newborn temp rg,0,201,
+P81.9,Disturb newborn temp rg unsp,0,201,
+P83.0,Sclerema neonatorum,0,201,
+P83.1,Neonatal erythema toxicum,0,201,
+P83.2,Hydrops fetalis not dt haemolytic dis,0,201,
+P83.3,Oth unsp oedema spec fetus newborn,0,201,
+P83.4,Breast engorgement of newborn,0,201,
+P83.5,Congenital hydrocele,0,201,
+P83.6,Umbilical polyp of newborn,0,201,
+P83.8,Oth spec cond integument spec to fetus,0,201,
+P83.9,Cond integument spec fetus & newb unsp,0,201,
+P90,Convulsions of newborn,0,201,
+P91.0,Neonatal cerebral ischaemia,0,201,
+P91.1,Acquired periventricular cysts newborn,0,201,
+P91.20,"Neonatal cerebral leukomalacia, unsp",0,201,
+P91.21,"Neonatal cerebral leukomalacia, cystic",0,201,
+P91.3,Neonatal cerebral irritability,0,201,
+P91.4,Neonatal cerebral depression,0,201,
+P91.5,Neonatal coma,0,201,
+P91.60,"Hypoxic ischmc encephpath newb, unsp",0,201,
+P91.61,Stage 1 hypoxic ischmc encephpath newb,0,201,
+P91.62,Stage 2 hypoxic ischmc encephpath newb,0,201,
+P91.63,Stage 3 hypoxic ischmc encephpath newb,0,201,
+P91.7,Acquired hydrocephalus of newborn,0,201,
+P91.8,Oth spec disturb newborn cerebral status,0,201,
+P91.9,Disturbance newborn cerebral status unsp,0,201,
+P92.0,Vomiting in newborn,0,201,
+P92.1,Regurgitation and rumination in newborn,0,201,
+P92.2,Slow feeding of newborn,0,201,
+P92.3,Underfeeding of newborn,0,201,
+P92.4,Overfeeding of newborn,0,201,
+P92.5,Neonatal difficulty in feeding at breast,0,201,
+P92.8,Other feeding problems of newborn,0,201,
+P92.9,Feeding problem of newborn unspecified,0,201,
+P93,React & intox dt drugs admin to fetus,0,201,
+P94.0,Transient neonatal myasthenia gravis,0,201,
+P94.1,Congenital hypertonia,0,201,
+P94.2,Congenital hypotonia,0,201,
+P94.8,Oth disorders of muscle tone of newborn,0,201,
+P94.9,Disorder of muscle tone of newborn unsp,0,201,
+P95,Fetal death of unspecified cause,0,201,
+P96.0,Congenital kidney failure,0,201,
+P96.1,Neon withdr sym dt mat use drugs addictn,0,201,
+P96.2,Newb withdr sym Rx use drugs in newb,0,201,
+P96.3,Wide cranial sutures of newborn,0,201,
+P96.4,Termntn preg aff fetus & newborn,0,201,
+P96.50,Fetus & newb aff by unsp IU proc,0,201,
+P96.51,Fetus & newb affected by amniocentesis,0,201,
+P96.52,Fetus & newb aff by chori villous sampl,0,201,
+P96.53,Fetus & newb aff by fetal bl sampling,0,201,
+P96.54,Fetus & newb aff by comp IU fetal surg,0,201,
+P96.59,Fetus & newb aff by oth IU proc,0,201,
+P96.81,Jittery baby,0,201,
+P96.89,Oth spec conditions in perinatal period,0,201,
+P96.9,Cond originating in perinatal peri unsp,0,201,
+R54,Senility,230,324,
+R62.0,Delayed milestone,0,219,
+R62.8,Oth lack normal physiological devt,0,219,
+R62.9,Lack expected physiological devt unsp,0,219,
+R68.1,Nonspecific symptoms peculiar to infancy,0,210,
+R86.1,Abn level hormones from male gen org,215,324,MALE
+R95.0,SIDS w mention of autopsy,0,202,
+R95.9,SIDS wo mention of autopsy,0,202,
+T83.3,Mech comp intrauterine dev,210,260,FEML
+Z00.1,Routine child health examination,0,219,
+Z00.3,Exam adolescent development state,208,219,
+Z03.70,Obs newb for unspecified suspect cond,0,201,
+Z03.71,Obs newb for suspect infectious cond,0,201,
+Z03.72,Obs newb for suspect neurological cond,0,201,
+Z03.73,Obs newb for suspect respiratory cond,0,201,
+Z03.79,Obs newb for oth suspect cond,0,201,
+Z30.1,Insertion of contraceptive device,210,324,FEML
+Z30.3,Menstrual extraction,210,260,FEML
+Z30.5,Surveillance of contraceptive device,210,324,
+Z32.0,Pregnancy not (yet) confirmed,210,260,FEML
+Z32.1,Pregnancy confirmed,210,260,FEML
+Z32.2,Initiation of medical abortion,210,260,FEML
+Z33,Pregnant state incidental,210,260,FEML
+Z34.0,Supervision of normal first pregnancy,210,260,FEML
+Z34.8,Supervision of other normal pregnancy,210,260,FEML
+Z34.9,Supervision of normal pregnancy unsp,210,260,FEML
+Z35.0,Supervsn of pregnancy w h/o infertility,210,260,FEML
+Z35.1,Supervsn preg w h/o abortive outcome,210,260,FEML
+Z35.2,Supervsn preg w oth poor obst history,210,260,FEML
+Z35.3,Supervsn preg w h/o insuff A/N care,210,260,FEML
+Z35.4,Supervsn preg w grand multiparity,210,260,FEML
+Z35.51,Supervsn primigravida w advanced mat age,210,260,FEML
+Z35.52,Supervsn multigravida w advanced mat age,210,260,FEML
+Z35.6,Supervision of (very) young primigravida,210,260,FEML
+Z35.7,Supervsn high-risk preg dt social prob,210,260,FEML
+Z35.8,Supervision of oth high-risk pregnancies,210,260,FEML
+Z35.9,Supervsn of high-risk pregnancy unsp,210,260,FEML
+Z36.0,A/N screen for chromosomal anomalies,210,260,FEML
+Z36.1,A/N screen for raised AFP level,210,260,FEML
+Z36.2,Oth A/N screen based on amniocentesis,210,260,FEML
+Z36.3,A/N screen malform u/s oth phys meth,210,260,FEML
+Z36.4,A/N screen IUGR u/s oth phys methods,210,260,FEML
+Z36.5,Antenatal screening for isoimmunisation,210,260,FEML
+Z36.8,Other antenatal screening,210,260,FEML
+Z36.9,Antenatal screening unspecified,210,260,FEML
+Z37.0,Single live birth,210,260,FEML
+Z37.1,Single stillbirth,210,260,FEML
+Z37.2,Twins both liveborn,210,260,FEML
+Z37.3,Twins one liveborn and one stillborn,210,260,FEML
+Z37.4,Twins both stillborn,210,260,FEML
+Z37.5,Other multiple births all liveborn,210,260,FEML
+Z37.6,Other multiple births some liveborn,210,260,FEML
+Z37.7,Other multiple births all stillborn,210,260,FEML
+Z37.9,Outcome of delivery unspecified,210,260,FEML
+Z38.0,Singleton born in hospital,0,201,
+Z38.1,Singleton born outside hospital,0,201,
+Z38.2,Singleton unsp as to place of birth,0,201,
+Z38.3,Twin born in hospital,0,201,
+Z38.4,Twin born outside hospital,0,201,
+Z38.5,Twin unspecified as to place of birth,0,201,
+Z38.6,Other multiple birth born in hospital,0,201,
+Z38.7,Oth multiple birth born outside hospital,0,201,
+Z38.8,Oth multiple unsp as to place of birth,0,201,
+Z39.00,Postprt care & exam after delivery unsp,210,260,FEML
+Z39.01,Postpartum care after hospital delivery,210,260,FEML
+Z39.02,Postprt care planned out of hosp delv,210,260,FEML
+Z39.03,Postprt care unplanned out of hosp delv,210,260,FEML
+Z39.1,Care and examination of lactating mother,210,260,FEML
+Z39.2,Routine postpartum follow-up,210,260,FEML
+Z64.0,Problems related to unwanted pregnancy,210,260,FEML
+Z70.0,Counselling related to sexual attitude,215,324,
+Z70.1,Counselling rel sexual beh & orientn,215,324,
+Z70.2,Counselling sex beh orientn 3rd party,215,324,
+Z70.3,Counsel cmb concern sex beh orientn,215,324,
+Z70.8,Oth counsel rel t sex attde beh orientn,215,324,
+Z70.9,Counsel rel sex attde beh & orientn unsp,215,324,
+Z76.1,Health supervsn & care abandoned infant,0,202,
+Z76.21,Hlth supervsn care infnt child adop fost,0,210,
+Z76.22,Hlth supervsn care oth infnt child NEC,0,210,
+Z97.5,Presence of contraceptive device,210,324,
+B26.0,Mumps orchitis,,,MALE
+B37.3,Candidiasis of vulva and vagina,,,FEML
+C51.0,Malignant neoplasm of labium majus,,,FEML
+C51.1,Malignant neoplasm of labium minus,,,FEML
+C51.2,Malignant neoplasm of clitoris,,,FEML
+C51.8,Overlapping malignant lesion of vulva,,,FEML
+C51.9,Malignant neoplasm of vulva unspecified,,,FEML
+C52,Malignant neoplasm of vagina,,,FEML
+C53.0,Malignant neoplasm of endocervix,,,FEML
+C53.1,Malignant neoplasm of exocervix,,,FEML
+C53.8,Overlap malignant lesion cervix uteri,,,FEML
+C53.9,Malignant neoplasm cervix uteri unsp,,,FEML
+C54.0,Malignant neoplasm of isthmus uteri,,,FEML
+C54.1,Malignant neoplasm of endometrium,,,FEML
+C54.2,Malignant neoplasm of myometrium,,,FEML
+C54.3,Malignant neoplasm of fundus uteri,,,FEML
+C54.8,Overlap malignant lesion corpus uteri,,,FEML
+C54.9,Malignant neoplasm corpus uteri unsp,,,FEML
+C55,Malignant neoplasm uterus part unsp,,,FEML
+C56,Malignant neoplasm of ovary,,,FEML
+C57.0,Malignant neoplasm of fallopian tube,,,FEML
+C57.1,Malignant neoplasm of broad ligament,,,FEML
+C57.2,Malignant neoplasm of round ligament,,,FEML
+C57.3,Malignant neoplasm of parametrium,,,FEML
+C57.4,Malignant neoplasm uterine adnexa unsp,,,FEML
+C57.7,Malg neoplm other spec femle gen organ,,,FEML
+C57.8,Overlap malg lesion female genital organ,,,FEML
+C57.9,Malg neoplasm female genital organ unsp,,,FEML
+C60.0,Malignant neoplasm of prepuce,,,MALE
+C60.1,Malignant neoplasm of glans penis,,,MALE
+C60.2,Malignant neoplasm of body of penis,,,MALE
+C60.8,Overlapping malignant lesion of penis,,,MALE
+C60.9,Malignant neoplasm of penis unspecified,,,MALE
+C62.0,Malignant neoplasm of undescended testis,,,MALE
+C62.1,Malignant neoplasm of descended testis,,,MALE
+C62.9,Malignant neoplasm of testis unspecified,,,MALE
+C63.0,Malignant neoplasm of epididymis,,,MALE
+C63.1,Malignant neoplasm of spermatic cord,,,MALE
+C63.2,Malignant neoplasm of scrotum,,,MALE
+C63.7,Other specified male genital organs,,,MALE
+C63.8,Overlap malg lesion male genital organs,,,MALE
+C63.9,Malg neoplasm male genital organ unsp,,,MALE
+C76.31,Malg neoplasm of male pelvic organs,,,MALE
+C76.32,Malg neoplasm of female pelvic organs,,,FEML
+C79.6,Secondary malignant neoplasm of ovary,,,FEML
+C79.83,Sec malg neoplasm male genital organs,,,MALE
+C79.84,Sec malg neoplasm female genital organs,,,FEML
+D06.0,Carcinoma in situ of endocervix,,,FEML
+D06.1,Carcinoma in situ of exocervix,,,FEML
+D06.7,Ca in situ other parts of cervix,,,FEML
+D06.9,Carcinoma in situ of cervix unspecified,,,FEML
+D07.0,Carcinoma in situ of endometrium,,,FEML
+D07.1,Carcinoma in situ of vulva,,,FEML
+D07.2,Carcinoma in situ of vagina,,,FEML
+D07.3,Ca in situ oth / unsp female gen org,,,FEML
+D07.4,Carcinoma in situ of penis,,,MALE
+D07.5,Carcinoma in situ of prostate,,,MALE
+D07.6,Ca in situ oth / unsp male genital org,,,MALE
+D17.6,Benign lipomatous neoplm spermatic cord,,,MALE
+D25.0,Submucous leiomyoma of uterus,,,FEML
+D25.1,Intramural leiomyoma of uterus,,,FEML
+D25.2,Subserosal leiomyoma of uterus,,,FEML
+D25.9,Leiomyoma of uterus unspecified,,,FEML
+D26.0,Other benign neoplasms of cervix uteri,,,FEML
+D26.1,Other benign neoplasms of corpus uteri,,,FEML
+D26.7,Other benign neoplasm other parts uterus,,,FEML
+D26.9,Other benign neoplasm uterus unspecified,,,FEML
+D27,Benign neoplasm of ovary,,,FEML
+D28.0,Benign neoplasm of vulva,,,FEML
+D28.1,Benign neoplasm of vagina,,,FEML
+D28.2,Benign neoplasm uterine tubes & ligament,,,FEML
+D28.7,Benign neoplasm oth spec genital organs,,,FEML
+D28.9,Benign neoplm female genital organ unsp,,,FEML
+D29.0,Benign neoplasm of penis,,,MALE
+D29.1,Benign neoplasm of prostate,,,MALE
+D29.2,Benign neoplasm of testis,,,MALE
+D29.3,Benign neoplasm of epididymis,,,MALE
+D29.4,Benign neoplasm of scrotum,,,MALE
+D29.7,Benign neoplasm other male genital organ,,,MALE
+D29.9,Benign neoplasm male genital organ unsp,,,MALE
+D39.0,Neoplasm uncertain or unknown beh uterus,,,FEML
+D39.1,Neoplasm uncertain or unknown beh ovary,,,FEML
+D39.2,Neoplm uncertain or unknown beh placenta,,,FEML
+D39.7,Neoplasm unc / unk beh oth femle gen org,,,FEML
+D39.9,Neoplm unc / unk beh femle gen org unsp,,,FEML
+D40.0,Neoplasm uncertain or unk beh prostate,,,MALE
+D40.1,Neoplasm uncertain or unknown beh testis,,,MALE
+D40.7,Neoplasm unc / unk beh male genital org,,,MALE
+D40.9,Neoplm unc / unk beh male gen org unsp,,,MALE
+E28.2,Polycystic ovarian syndrome,,,FEML
+E28.3,Primary ovarian failure,,,FEML
+E28.8,Other ovarian dysfunction,,,FEML
+E28.9,Ovarian dysfunction unspecified,,,FEML
+E29.0,Testicular hyperfunction,,,MALE
+E29.1,Testicular hypofunction,,,MALE
+E29.8,Other testicular dysfunction,,,MALE
+E29.9,Testicular dysfunction unspecified,,,MALE
+E89.4,Postprocedural ovarian failure,,,FEML
+E89.5,Postprocedural testicular hypofunction,,,MALE
+I86.1,Scrotal and other male pelvic varices,,,MALE
+I86.2,Female pelvic varices,,,FEML
+I86.3,Vulval varices,,,FEML
+L29.1,Pruritus scroti,,,MALE
+L29.2,Pruritus vulvae,,,FEML
+N43.0,Encysted hydrocele,,,MALE
+N43.1,Infected hydrocele,,,MALE
+N43.2,Other hydrocele,,,MALE
+N43.3,Hydrocele unspecified,,,MALE
+N43.4,Spermatocele,,,MALE
+N44,Torsion of testis,,,MALE
+N45.0,Orchitis epididymitis w abscess,,,MALE
+N45.9,Orchitis epididymitis wo abscess,,,MALE
+N47,Redundant prepuce phimosis paraphimosis,,,MALE
+N48.0,Leukoplakia of penis,,,MALE
+N48.1,Balanoposthitis,,,MALE
+N48.2,Other inflammatory disorders of penis,,,MALE
+N48.3,Priapism,,,MALE
+N48.5,Ulcer of penis,,,MALE
+N48.6,Induratio penis plastica,,,MALE
+N48.8,Other specified disorders of penis,,,MALE
+N48.9,Disorder of penis unspecified,,,MALE
+N49.0,Inflammatory disorders seminal vesicle,,,MALE
+N49.1,Inf disrd sperm cd tunica vaginalis vas,,,MALE
+N49.2,Inflammatory disorders of scrotum,,,MALE
+N49.8,Inf disrd of oth spec male genital org,,,MALE
+N49.9,Inf disrd of unsp male genital organ,,,MALE
+N50.0,Atrophy of testis,,,MALE
+N50.1,Vascular disrd of male genital organs,,,MALE
+N50.8,Oth spec disrd of male genital organs,,,MALE
+N50.9,Disorder of male genital organs unsp,,,MALE
+N51.1,Disrd of testis & epididymis in dis cl/e,,,MALE
+N51.2,Balanitis in diseases cl/e,,,MALE
+N51.8,Oth disrd male genital org in dis cl/e,,,MALE
+N70.0,Acute salpingitis and oophoritis,,,FEML
+N70.9,Salpingitis and oophoritis unspecified,,,FEML
+N71.0,Acute inflammatory disease of uterus,,,FEML
+N71.9,Inflammatory disease of uterus unsp,,,FEML
+N73.0,Acute parametritis and pelvic cellulitis,,,FEML
+N73.2,Unsp parametritis and pelvic cellulitis,,,FEML
+N73.3,Female acute pelvic peritonitis,,,FEML
+N73.5,Female pelvic peritonitis unspecified,,,FEML
+N73.6,Female pelvic peritoneal adhesions,,,FEML
+N73.8,Oth spec female pelvic inflammatory dis,,,FEML
+N73.9,Female pelvic inflammatory disease unsp,,,FEML
+N74.0,Tuberculous infection cervix uteri,,,FEML
+N74.1,Female tuberculous pelvic inf dis,,,FEML
+N74.2,Female syphilitic pelvic inf dis,,,FEML
+N74.3,Female gonococcal pelvic inf dis,,,FEML
+N74.4,Female chlamydial pelvic inf dis,,,FEML
+N74.8,Female pelvic inf disrd in oth dis cl/e,,,FEML
+N75.0,Cyst of Bartholin's gland,,,FEML
+N75.1,Abscess of Bartholin's gland,,,FEML
+N75.8,Other diseases of Bartholin's gland,,,FEML
+N75.9,Disease of Bartholin's gland unsp,,,FEML
+N76.0,Acute vaginitis,,,FEML
+N76.1,Subacute and chronic vaginitis,,,FEML
+N76.2,Acute vulvitis,,,FEML
+N76.3,Subacute and chronic vulvitis,,,FEML
+N76.4,Abscess of vulva,,,FEML
+N76.5,Ulceration of vagina,,,FEML
+N76.6,Ulceration of vulva,,,FEML
+N76.8,Oth spec inflammation of vagina & vulva,,,FEML
+N77.0,Ulceration vulva infect parasit dis cl/e,,,FEML
+N77.1,Vaginits vulvits infect parasit dis cl/e,,,FEML
+N77.8,Vulvovaginal ulceratn inflam in dis cl/e,,,FEML
+N82.0,Vesicovaginal fistula,,,FEML
+N82.1,Oth femle urinary-genital tract fist,,,FEML
+N82.2,Fistula of vagina to small intestine,,,FEML
+N82.3,Fistula of vagina to large intestine,,,FEML
+N82.4,Oth femle intest-genital tract fistulae,,,FEML
+N82.5,Female genital tract-skin fistulae,,,FEML
+N82.8,Other female genital tract fistulae,,,FEML
+N82.9,Female genital tract fistula unsp,,,FEML
+N83.0,Follicular cyst of ovary,,,FEML
+N83.1,Corpus luteum cyst,,,FEML
+N83.2,Other and unspecified ovarian cysts,,,FEML
+N83.3,Acquired atrophy ovary & fallopian tube,,,FEML
+N83.4,Prolapse & hernia ovary & fallopian tube,,,FEML
+N83.5,Torsion ovary ovarian pedicle fall tube,,,FEML
+N83.6,Haematosalpinx,,,FEML
+N83.7,Haematoma of broad ligament,,,FEML
+N83.8,Oth noninf disrd ovry fall tbe brd ligmt,,,FEML
+N83.9,Noninf ovry fall tbe brd ligmt unsp,,,FEML
+N84.0,Polyp of corpus uteri,,,FEML
+N84.1,Polyp of cervix uteri,,,FEML
+N84.2,Polyp of vagina,,,FEML
+N84.3,Polyp of vulva,,,FEML
+N84.8,Polyp oth parts female genital tract,,,FEML
+N84.9,Polyp of female genital tract unsp,,,FEML
+N85.0,Endometrial glandular hyperplasia,,,FEML
+N85.1,Endometrial adenomatous hyperplasia,,,FEML
+N85.2,Hypertrophy of uterus,,,FEML
+N85.3,Subinvolution of uterus,,,FEML
+N85.4,Malposition of uterus,,,FEML
+N85.5,Inversion of uterus,,,FEML
+N85.6,Intrauterine synechiae,,,FEML
+N85.7,Haematometra,,,FEML
+N85.8,Oth spec noninflammatory disrd of uterus,,,FEML
+N85.9,Noninflammatory disorder of uterus unsp,,,FEML
+N86,Erosion and ectropion of cervix uteri,,,FEML
+N87.0,Mild cervical dysplasia,,,FEML
+N87.1,Moderate cervical dysplasia,,,FEML
+N87.2,Severe cervical dysplasia NEC,,,FEML
+N87.9,Dysplasia of cervix uteri unspecified,,,FEML
+N88.0,Leukoplakia of cervix uteri,,,FEML
+N88.1,Old laceration of cervix uteri,,,FEML
+N88.2,Stricture and stenosis of cervix uteri,,,FEML
+N88.3,Incompetence of cervix uteri,,,FEML
+N88.4,Hypertrophic elongation of cervix uteri,,,FEML
+N88.8,Oth spec noninf disrd of cervix uteri,,,FEML
+N88.9,Noninf disrd of cervix uteri unsp,,,FEML
+N89.0,Mild vaginal dysplasia,,,FEML
+N89.1,Moderate vaginal dysplasia,,,FEML
+N89.2,Severe vaginal dysplasia NEC,,,FEML
+N89.3,Dysplasia of vagina unspecified,,,FEML
+N89.4,Leukoplakia of vagina,,,FEML
+N89.5,Stricture and atresia of vagina,,,FEML
+N89.6,Tight hymenal ring,,,FEML
+N89.7,Haematocolpos,,,FEML
+N89.8,Oth spec noninflammatory disrd of vagina,,,FEML
+N89.9,Noninflammatory disorder of vagina unsp,,,FEML
+N90.3,Dysplasia of vulva unspecified,,,FEML
+N90.4,Leukoplakia of vulva,,,FEML
+N90.5,Atrophy of vulva,,,FEML
+N90.6,Hypertrophy of vulva,,,FEML
+N90.7,Vulvar cyst,,,FEML
+N90.8,Oth spec noninf disrd vulva & perineum,,,FEML
+N90.9,Noninf disrd of vulva & perineum unsp,,,FEML
+N93.8,Oth spec abn uterine vaginal bleeding,,,FEML
+N93.9,Abnormal uterine & vaginal bleeding unsp,,,FEML
+N94.8,Oth spec cond ass w femle gen org menst,,,FEML
+N94.9,Unsp cond ass w femle gen org menst,,,FEML
+N99.65,Accid punct lacr prostate dur proc,,,MALE
+N99.66,Accid punct lacr uterus dur proc,,,FEML
+N99.67,Accid punct lacr ovry fall tube dur proc,,,FEML
+N99.68,Accid punct lacr testis during procedure,,,MALE
+N99.84,Residual ovary syndrome,,,FEML
+Q50.00,Congenital absence of ovary unsp,,,FEML
+Q50.01,Congenital absence of ovary unilateral,,,FEML
+Q50.02,Congenital absence of ovary bilateral,,,FEML
+Q50.10,Developmental ovarian cyst unsp,,,FEML
+Q50.11,Developmental ovarian cyst single,,,FEML
+Q50.12,Developmental ovarian cyst multiple,,,FEML
+Q50.2,Congenital torsion of ovary,,,FEML
+Q50.30,Cong malformation ovary unspecified,,,FEML
+Q50.31,Ovarian streak,,,FEML
+Q50.32,Accessory ovary,,,FEML
+Q50.39,Oth cong malformations of ovary,,,FEML
+Q50.4,Embryonic cyst of fallopian tube,,,FEML
+Q50.5,Embryonic cyst of broad ligament,,,FEML
+Q50.60,Cong malform fall tbe & brd ligmt ?,,,FEML
+Q50.61,Absence fallopian tube & broad ligament,,,FEML
+Q50.69,Oth cong malform fall tbe & brd ligmt,,,FEML
+Q51.0,Agenesis and aplasia of uterus,,,FEML
+Q51.1,Doubling uterus w doubling cervix vagina,,,FEML
+Q51.2,Other doubling of uterus,,,FEML
+Q51.3,Bicornuate uterus,,,FEML
+Q51.4,Unicornuate uterus,,,FEML
+Q51.5,Agenesis and aplasia of cervix,,,FEML
+Q51.6,Embryonic cyst of cervix,,,FEML
+Q51.7,Cong fistulae b uterus digest urin tr,,,FEML
+Q51.81,Congenital hypoplasia of uterus,,,FEML
+Q51.82,Congenital hypoplasia of cervix,,,FEML
+Q51.83,Congenital displacement of uterus,,,FEML
+Q51.84,Congenital displacement of cervix,,,FEML
+Q51.89,Oth cong malform of uterus & cervix,,,FEML
+Q51.9,Cong malformation uterus & cervix unsp,,,FEML
+Q52.0,Congenital absence of vagina,,,FEML
+Q52.1,Doubling of vagina,,,FEML
+Q52.2,Congenital rectovaginal fistula,,,FEML
+Q52.3,Imperforate hymen,,,FEML
+Q52.40,Cong malformation of vagina unspecified,,,FEML
+Q52.41,Congenital atresia of vagina,,,FEML
+Q52.42,Embryonic cyst of vagina,,,FEML
+Q52.43,Congenital cyst of canal of Nuck,,,FEML
+Q52.49,Other congenital malformations of vagina,,,FEML
+Q52.5,Fusion of labia,,,FEML
+Q52.60,Cong malformation clitoris unspecified,,,FEML
+Q52.61,Congenital absence of clitoris,,,FEML
+Q52.62,Congenital hypertrophy of clitoris,,,FEML
+Q52.69,Oth congenital malformations of clitoris,,,FEML
+Q52.70,Congenital malformation of vulva ?,,,FEML
+Q52.71,Congenital absence of vulva,,,FEML
+Q52.79,Other congenital malformations of vulva,,,FEML
+Q52.8,Oth spec cong malform femle genitalia,,,FEML
+Q52.9,Cong malformation femle gen unsp,,,FEML
+Q53.0,Ectopic testis,,,MALE
+Q53.10,"Undescended testicle, uni, unsp site",,,MALE
+Q53.11,Undescended testicle uni canalicular,,,MALE
+Q53.12,Undescended testicle uni inguinal,,,MALE
+Q53.13,Undescended testicle uni intra-abdominal,,,MALE
+Q53.20,Undescended testicle bi unspecified site,,,MALE
+Q53.21,Undescended testicle bi canalicular,,,MALE
+Q53.22,Undescended testicle bi inguinal,,,MALE
+Q53.23,Undescended testicle bi intra-abdominal,,,MALE
+Q53.90,Undscd testicle ? laterality unsp site,,,MALE
+Q53.91,Undscd testicle ? laterality canalicular,,,MALE
+Q53.92,Undscd testicle ? laterality inguinal,,,MALE
+Q53.93,Undscd testicle ? laterality intra-abdo,,,MALE
+Q54.0,Hypospadias balanic,,,MALE
+Q54.1,Hypospadias penile,,,MALE
+Q54.2,Hypospadias penoscrotal,,,MALE
+Q54.3,Hypospadias perineal,,,MALE
+Q54.4,Congenital chordee,,,MALE
+Q54.8,Other hypospadias,,,MALE
+Q54.9,Hypospadias unspecified,,,MALE
+Q55.00,Absence and aplasia of testis unsp,,,MALE
+Q55.01,Absence and aplasia of testis unilateral,,,MALE
+Q55.02,Absence and aplasia of testis bilateral,,,MALE
+Q55.11,Hypoplasia of testis,,,MALE
+Q55.12,Hypoplasia of scrotum,,,MALE
+Q55.20,Cong malform of testis and scrotum ?,,,MALE
+Q55.21,Retractile testis,,,MALE
+Q55.22,Bifid scrotum,,,MALE
+Q55.23,Absence of scrotum,,,MALE
+Q55.24,Polyorchism,,,MALE
+Q55.29,Other cong malform of testis or scrotum,,,MALE
+Q55.3,Atresia of vas deferens,,,MALE
+Q55.40,? malform vas epid sem ves prostate,,,MALE
+Q55.41,Congenital malformations of vas deferens,,,MALE
+Q55.42,Congenital malformations of epididymis,,,MALE
+Q55.43,Cong malformations of seminal vesicles,,,MALE
+Q55.44,Congenital malformations of prostate,,,MALE
+Q55.5,Congenital absence and aplasia of penis,,,MALE
+Q55.60,Congenital malformation of penis ?,,,MALE
+Q55.61,Congenital circumcision,,,MALE
+Q55.62,Congenital dysplasia of penis,,,MALE
+Q55.63,Congenital curvature of penis,,,MALE
+Q55.64,Congenital hooded prepuce,,,MALE
+Q55.65,Congenital hypoplasia of penis,,,MALE
+Q55.69,Other congenital malform of penis,,,MALE
+Q55.8,Oth spec cong malform male gen org,,,MALE
+Q55.9,Cong malformation male gen org unsp,,,MALE
+Q64.0,Epispadias,,,MALE
+R79.82,Elevated prostate specific antigen,,,MALE
+R86.0,Abn level enzymes from male gen org,,,MALE
+R86.2,Abn level oth drugs from male gen org,,,MALE
+R86.3,Abn level nonmed subs from male gen org,,,MALE
+R86.4,Abn immun findings from male gen org,,,MALE
+R86.5,Abn microbiol findings from male gen org,,,MALE
+R86.6,Abn cytol findings from male gen org,,,MALE
+R86.7,Abn histo findings from male gen org,,,MALE
+R86.8,Oth abn findings from male gen org,,,MALE
+R86.9,Abn find specmn frm male gen org unsp,,,MALE
+R87.0,Abn level enzymes from femle gen org,,,FEML
+R87.1,Abn level hormones from femle gen org,,,FEML
+R87.2,Abn level oth drugs from femle gen org,,,FEML
+R87.3,Abn level nonmed subs femle gen org,,,FEML
+R87.4,Abn immun findings from femle gen org,,,FEML
+R87.5,Abn microbiol finding from femle gen org,,,FEML
+R87.6,Abn cytol findings from femle gen org,,,FEML
+R87.7,Abn histo findings from femle gen org,,,FEML
+R87.8,Oth abn findings from femle gen org,,,FEML
+R87.9,Abn find specmn frm femle gen org unsp,,,FEML
+R93.51,Abn findings on dx imaging of uterus,,,FEML
+S30.21,Contusion of male ext genital organs,,,MALE
+S30.22,Contusion of female ext genital organs,,,FEML
+S31.2,Open wound of penis,,,MALE
+S31.3,Open wound of scrotum and testes,,,MALE
+S31.4,Open wound of vagina and vulva,,,FEML
+S31.51,Open wnd oth & unsp ext male gen organs,,,MALE
+S31.52,Open wnd oth & unsp ext femle gen organs,,,FEML
+S37.32,Injury of penile urethra,,,MALE
+S37.33,Injury of prostatic urethra,,,MALE
+S37.4,Injury of ovary,,,FEML
+S37.5,Injury of fallopian tube,,,FEML
+S37.6,Injury of uterus,,,FEML
+S37.71,Injury of multiple male pelvic organs,,,MALE
+S37.72,Injury of multiple female pelvic organs,,,FEML
+S37.82,Injury of prostate,,,MALE
+S37.83,Injury of seminal vesicle,,,MALE
+S37.84,Injury of vas deferens,,,MALE
+S37.85,Injury of other male pelvic organ,,,MALE
+S37.86,Injury of other female pelvic organ,,,FEML
+S38.01,Crushing inj of ext male genital org,,,MALE
+S38.02,Crushing inj of ext female genital org,,,FEML
+S38.21,Traum amputatn male ext genital org,,,MALE
+S38.22,Traumc amputatn female ext genital org,,,FEML
+T19.2,Foreign body in vulva and vagina,,,FEML
+T19.3,Foreign body in uterus [any part],,,FEML
+T19.81,FB in oth mult parts male GU tract,,,MALE
+T19.82,FB in oth mult parts female GU tract,,,FEML
+T83.41,Mech comp oth prosth dev impl male GT,,,MALE
+T83.42,Mech comp oth prosth dev impl female GT,,,FEML
+T83.61,Infectn inf dt prosth dev impl male GT,,,MALE
+T83.62,Infectn inf dt prosth dev impl female GT,,,FEML
+Z01.4,Gynaecological exam (general)(routine),,,FEML
+Z12.4,Specl screen exam neoplasm of cervix,,,FEML
+Z12.5,Specl screen exam neoplasm of prostate,,,MALE
+Z30.21,Male sterilisation intervention,,,MALE
+Z30.22,Female sterilisation intervention,,,FEML
+Z31.01,Admssn for revs male strlisn intervtn,,,MALE
+Z31.02,Admssn for revs femle strlisn intervtn,,,FEML
+Z31.1,Artificial insemination,,,FEML
+Z31.2,In vitro fertilisation,,,FEML
+Z31.31,Oth asst fertil meth ass w male RS,,,MALE
+Z31.32,Oth asst fertil meth ass w female RS,,,FEML
+Z31.41,Procrtv investgtn & testing of male RS,,,MALE
+Z31.42,Procrtv investgtn & testing of female RS,,,FEML
+Z31.81,Oth procrtv mgmt ass w male reprod sys,,,MALE
+Z31.82,Oth procrtv mgm ass w female reprod sys,,,FEML
+Z40.01,Prophyltc surg risks malg neoplasm ovary,,,FEML
+Z87.5,Persl h/o comp preg brth puerperium,,,FEML
+Z91.7,Persl h/o female genital mutilation,,,FEML
